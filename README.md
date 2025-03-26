@@ -17,12 +17,7 @@ You’ll also find a growing collection of recommended books, websites, videos, 
 ## Our Partners
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3f071091-5b58-433b-ad71-e836c3269efc" width="300">
-</p>
-
-
-<p align="center">
-  <img src="https://i.imgur.com/OZeEjjR.png" width="300">
+  <img src="https://i.imgur.com/YCcnMiV.png" width="300">
 </p>
 
 
