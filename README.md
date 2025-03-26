@@ -88,8 +88,7 @@ Feel free to open an issue to start a discussion or ask for clarification before
 ## Our Partners
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e303d4be-248e-4944-8504-26eaea004ad4" width="300"> 
-  <img src="https://github.com/user-attachments/assets/989d7b1e-b60c-4fc2-aaf6-3090e77e33d6" width="300">
+  <img src="https://github.com/user-attachments/assets/3f071091-5b58-433b-ad71-e836c3269efc" width="300">
 </p>
 
 
