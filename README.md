@@ -2,15 +2,10 @@
 
 Welcome to the Software—Guidelines for Developing Energy-Efficient and Sustainable Software Repository!
 
-<p align="left">
+<p align="right">
   <img src="https://github.com/user-attachments/assets/afb4cb9b-f15c-4514-a55b-031961e593fa">
   This repository forms part of the Green Digital Action pillar under the United Nations International Telecommunication Union (UN ITU). It supports the global effort to embed sustainability into software     development by curating and sharing best practices, technical guidance, and actionable resources.
 </p>
-
-This repository forms part of the Green Digital Action pillar under the United Nations International Telecommunication Union (UN ITU). It supports the global effort to embed sustainability into software development by curating and sharing best practices, technical guidance, and actionable resources.
-
-![GDA](https://github.com/user-attachments/assets/afb4cb9b-f15c-4514-a55b-031961e593fa)
- 
 
 Included here is a practitioner-developed set of sustainable software engineering best practices, created by the Standard Bank Software Development Centre of Excellence in partnership with GoCodeGreen. These practices have been developed, tested, and refined in real-world environments and are shared here for the benefit of the wider community.
 
