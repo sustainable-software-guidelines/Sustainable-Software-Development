@@ -2,9 +2,9 @@
 
 Welcome to the Software—Guidelines for Developing Energy-Efficient and Sustainable Software Repository!
 
-This repository forms part of the Green Digital Action pillar under the United Nations International Telecommunication Union (UN ITU). It supports the global effort to embed sustainability into software     development by curating and sharing best practices, technical guidance, and actionable resources..
+This repository forms part of the Green Digital Action pillar under the United Nations International Telecommunication Union (UN ITU). It supports the global effort to embed sustainability into software     development by curating and sharing best practices, technical guidance, and actionable resources.
 
-<p align="centre">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/afb4cb9b-f15c-4514-a55b-031961e593fa">
 </p>
 
@@ -13,6 +13,22 @@ Included here is a practitioner-developed set of sustainable software engineerin
 As part of this contribution, a practical checklist has been provided — designed to help developers and teams integrate sustainability into every stage of the software lifecycle. This tool has been openly donated for public use, to accelerate learning and implementation across the industry.
 
 You’ll also find a growing collection of recommended books, websites, videos, and courses to support continuous learning and awareness of the latest advances in sustainable technology.
+
+## Our Partners
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3f071091-5b58-433b-ad71-e836c3269efc" width="300">
+</p>
+
+## Summary Table
+
+|                              | Energy and Resource Efficiency|Software Architecture and Design |Sustainable Hardware and Infrastructure|Sustainable Development and Operations|AI and Emerging Technologies|
+|------------------------------|-------------------------------|---------------------------------|---------------------------------------|-------------------------------|-------------------------------|
+| Resource                     | Tick/Cross                    | Tick/Cross                      |Tick/Cross                             | Tick/Cross                    |Tick/Cross                     |  
+| Green Software Foundation    | Tick/Cross                    | Tick/Cross                      |Tick/Cross                             | Tick/Cross                    |Tick/Cross                     |
+| Building Green Software by Anne Currie                        | Tick/Cross                    | Tick/Cross                      |Tick/Cross                             | Tick/Cross                    |Tick/Cross                     |
+
+
 
 ## 📌 Table of Contents
 
@@ -87,11 +103,7 @@ Feel free to open an issue to start a discussion or ask for clarification before
 
 🚀 **Together, we can build a more sustainable digital future.**
 
-## Our Partners
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3f071091-5b58-433b-ad71-e836c3269efc" width="300">
-</p>
 
 
 
