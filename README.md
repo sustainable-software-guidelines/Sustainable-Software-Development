@@ -15,10 +15,10 @@ You’ll also find a growing collection of recommended books, websites, videos, 
 - 🌎 Why building sustainable technology is important?
 - 📚 Categories:
   - [Energy and Resource Efficiency](#energy-and-resource-efficiency)
-  - [Software Architecture and Design](#software_architecture_and_design)
-  - [Sustainable Hardware and Infrastrucutre](#sustainable_hardware_and_infrastructure)
-  - [Sustainable Development and Operations](#sustainable_development_and_operations)
-  - [AI and Emerging Technologies](#ai_and_emerging_technologies)
+  - [Software Architecture and Design](#software-architecture-and-design)
+  - [Sustainable Hardware and Infrastrucutre](#sustainable-hardware-and-infrastructure)
+  - [Sustainable Development and Operations](#sustainable-development-and-operations)
+  - [AI and Emerging Technologies](#ai-and-emerging-technologies)
 - 💡 How to Contribute
 - 📖 Licensing
 - 🧠 Questions
