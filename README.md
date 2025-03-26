@@ -5,7 +5,7 @@ Welcome to the Software—Guidelines for Developing Energy-Efficient and Sustain
 This repository forms part of the Green Digital Action pillar under the United Nations International Telecommunication Union (UN ITU). It supports the global effort to embed sustainability into software     development by curating and sharing best practices, technical guidance, and actionable resources.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/afb4cb9b-f15c-4514-a55b-031961e593fa">
+  <img src="https://github.com/user-attachments/assets/afb4cb9b-f15c-4514-a55b-031961e593fa" width="200">
 </p>
 
 Included here is a practitioner-developed set of sustainable software engineering best practices, created by the Standard Bank Software Development Centre of Excellence in partnership with GoCodeGreen. These practices have been developed, tested, and refined in real-world environments and are shared here for the benefit of the wider community.
@@ -24,11 +24,16 @@ You’ll also find a growing collection of recommended books, websites, videos, 
 
 |                              | Energy and Resource Efficiency|Software Architecture and Design |Sustainable Hardware and Infrastructure|Sustainable Development and Operations|AI and Emerging Technologies|
 |------------------------------|-------------------------------|---------------------------------|---------------------------------------|-------------------------------|-------------------------------|
-| **Green Software Foundation** | Tick/Cross                    | Tick/Cross                      |Tick/Cross                             | Tick/Cross                    |Tick/Cross                    |  
-| **Building Green Software by Anne Currie**| Tick/Cross                    | Tick/Cross                      |Tick/Cross                             | Tick/Cross                    |Tick/Cross        |
-| **TechUK Green Coding Toolkit**| Tick/Cross           | Tick/Cross                      |Tick/Cross                             | Tick/Cross                    |Tick/Cross                     |
+|**Green Software Foundation** | Tick/Cross | Tick/Cross |Tick/Cross | Tick/Cross |Tick/Cross|  
+|**Building Green Software by Anne Currie**| Tick/Cross | Tick/Cross Tick/Cross | Tick/Cross|Tick/Cross|
+|**TechUK Green Coding Toolkit**| Tick/Cross | Tick/Cross|Tick/Cross| Tick/Cross|Tick/Cross|
+|**AWS Web Architecture Framework**|Tick/Cross | Tick/Cross|Tick/Cross| Tick/Cross|Tick/Cross|
+|**GDSA**|Tick/Cross | Tick/Cross|Tick/Cross| Tick/Cross|Tick/Cross|
+|**TechCarbonStandard by Scott Logic**| Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross |
+|**Decarbonise Digital by Eric Zie**| Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross |
+|**W3C Web Sustainability Guidelines**| Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross |
 
-
+*Disclaimer: This table is based on current published research, and does not cover work in progress*
 
 ## 📌 Table of Contents
 
