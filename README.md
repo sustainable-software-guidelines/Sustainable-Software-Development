@@ -26,7 +26,7 @@ You’ll also find a growing collection of recommended books, websites, videos, 
 |------------------------------|-------------------------------|---------------------------------|---------------------------------------|-------------------------------|-------------------------------|
 | Resource                     | Tick/Cross                    | Tick/Cross                      |Tick/Cross                             | Tick/Cross                    |Tick/Cross                     |  
 | Green Software Foundation    | Tick/Cross                    | Tick/Cross                      |Tick/Cross                             | Tick/Cross                    |Tick/Cross                     |
-| Building Green Software by Anne Currie| Tick/Cross                    | Tick/Cross                      |Tick/Cross                             | Tick/Cross                    |Tick/Cross                     |
+| Building Green Software by Anne Currie| Tick/Cross           | Tick/Cross                      |Tick/Cross                             | Tick/Cross                    |Tick/Cross                     |
 
 
 
