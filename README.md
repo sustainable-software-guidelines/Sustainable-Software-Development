@@ -12,20 +12,29 @@ You’ll also find a growing collection of recommended books, websites, videos, 
 
 ## 📌 Table of Contents
 
-- 🌎 Why building sustainable technology is important?
+- 🌎 Why building sustainable software is important?
+- Practioners Best Practice Guide
+- Sustainable Software Engineering Checklist
 - 📚 Categories:
   - [Energy and Resource Efficiency](#energy-and-resource-efficiency)
   - [Software Architecture and Design](#software-architecture-and-design)
   - [Sustainable Hardware and Infrastrucutre](#sustainable-hardware-and-infrastructure)
   - [Sustainable Development and Operations](#sustainable-development-and-operations)
   - [AI and Emerging Technologies](#ai-and-emerging-technologies)
+- Case Studies
 - 💡 How to Contribute
 - 📖 Licensing
 - 🧠 Questions
 
 
-## 🌎 Why building sustainable technology is important?
+## 🌎 Why building sustainable software is important?
 Add...
+
+## Practioners Best Practice Guide
+Provided by Standard Bank...
+
+## Sustainable Software Engineering Checklist
+Provided by Standard Bank...
 
 ## 📚 Categories
 
@@ -53,6 +62,9 @@ You can find all related resources here: [Sustainable Development and Operations
 Explanation...
 
 You can find all related resources here: [AI and Emerging Technologies folder](./AI-and-Emerging-Technologies/)
+
+### Case Studies
+We believe case studies bring everything to life. Here you will find a collection of success stores and case studies that showcase energy efficient and sustainable software. 
 
 ## 💡 How to Contribute
 We welcome contributions! If you would like to suggest improvements, add new resources, or share implementation experiences, please open an issue or submit a pull request. Together, we can advance sustainable digital development for everyone.
