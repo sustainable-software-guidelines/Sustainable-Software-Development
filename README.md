@@ -8,6 +8,11 @@ This repository forms part of the Green Digital Action pillar under the United N
   <img src="https://github.com/user-attachments/assets/afb4cb9b-f15c-4514-a55b-031961e593fa">
 </p>
 
+<p align="left">
+  <img src="[https://your-image-url.com/logo.png](https://github.com/user-attachments/assets/afb4cb9b-f15c-4514-a55b-031961e593fa)" width="100" style="vertical-align: middle; margin-right: 10px;">
+  <b>GDA ITU</b> - Short description of the partner.
+</p>
+
 Included here is a practitioner-developed set of sustainable software engineering best practices, created by the Standard Bank Software Development Centre of Excellence in partnership with GoCodeGreen. These practices have been developed, tested, and refined in real-world environments and are shared here for the benefit of the wider community.
 
 As part of this contribution, a practical checklist has been provided — designed to help developers and teams integrate sustainability into every stage of the software lifecycle. This tool has been openly donated for public use, to accelerate learning and implementation across the industry.
