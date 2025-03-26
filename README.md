@@ -26,12 +26,12 @@ You’ll also find a growing collection of recommended books, websites, videos, 
 |------------------------------|-------------------------------|---------------------------------|---------------------------------------|-------------------------------|-------------------------------|
 |**Green Software Foundation** | Tick/Cross | Tick/Cross |Tick/Cross | Tick/Cross | Tick/Cross |  
 |**Building Green Software by Anne Currie**|  |  |  |  |  |
-|**TechUK Green Coding Toolkit**| Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross |
-|**AWS Web Architecture Framework**|Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross |
-|**GDSA**| Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross |
-|**TechCarbonStandard by Scott Logic**| Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross |
-|**Decarbonise Digital by Eric Zie**| Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross |
-|**W3C Web Sustainability Guidelines**| Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross |
+|**TechUK Green Coding Toolkit**|  |  |  |  |  |
+|**AWS Web Architecture Framework**| |  |  |  |  |
+|**GDSA**|  |  |  |  |  |
+|**TechCarbonStandard by Scott Logic**|  |  |  |  |  |
+|**Decarbonise Digital by Eric Zie**|  |  | |  |  |
+|**W3C Web Sustainability Guidelines**|  |  |  |  | |
 
 *Disclaimer: This table is based on current published research, and does not cover work in progress*
 
