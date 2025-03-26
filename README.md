@@ -9,7 +9,7 @@ This repository forms part of the Green Digital Action pillar under the United N
 </p>
 
 <p align="left">
-  <img src="[https://your-image-url.com/logo.png](https://github.com/user-attachments/assets/afb4cb9b-f15c-4514-a55b-031961e593fa)" width="100" style="vertical-align: middle; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/afb4cb9b-f15c-4514-a55b-031961e593fa" width="100" style="vertical-align: middle; margin-right: 10px;">
   <b>GDA ITU</b> - Short description of the partner.
 </p>
 
