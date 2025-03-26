@@ -25,7 +25,7 @@ You’ll also find a growing collection of recommended books, websites, videos, 
 |                              | Energy and Resource Efficiency|Software Architecture and Design |Sustainable Hardware and Infrastructure|Sustainable Development and Operations|AI and Emerging Technologies|
 |------------------------------|-------------------------------|---------------------------------|---------------------------------------|-------------------------------|-------------------------------|
 |**Green Software Foundation** | Tick/Cross | Tick/Cross |Tick/Cross | Tick/Cross | Tick/Cross |  
-|**Building Green Software by Anne Currie**| Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross |
+|**Building Green Software by Anne Currie**|  |  |  |  |  |
 |**TechUK Green Coding Toolkit**| Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross |
 |**AWS Web Architecture Framework**|Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross |
 |**GDSA**| Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross | Tick/Cross |
