@@ -20,6 +20,12 @@ You’ll also find a growing collection of recommended books, websites, videos, 
   <img src="https://github.com/user-attachments/assets/3f071091-5b58-433b-ad71-e836c3269efc" width="300">
 </p>
 
+
+<p align="center">
+  <img src="https://i.imgur.com/OZeEjjR.png" width="300">
+</p>
+
+
 ## Summary Table
 
 |                              | Energy and Resource Efficiency|Software Architecture and Design |Sustainable Hardware and Infrastructure|Sustainable Development and Operations|AI and Emerging Technologies|
