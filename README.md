@@ -73,7 +73,7 @@ Explanation...
 
 You can find all related resources here: [Software Architecture and Design folder](./Software-Architecture-and-Design/)
 
-### Sustainable Hardware and Infrastrucutre
+### Sustainable Hardware and Infrastructure
 Explanation...
 
 You can find all related resources here: [Sustainable Hardware and Infrastrucutre folder](./Sustainable-Hardware-and-Infrastructure/)
