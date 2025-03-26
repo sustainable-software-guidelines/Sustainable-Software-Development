@@ -87,10 +87,9 @@ Feel free to open an issue to start a discussion or ask for clarification before
 
 ## Our Partners
 
-| Logo | Partner |
-|------|---------|
-| <img src="https://github.com/user-attachments/assets/e303d4be-248e-4944-8504-26eaea004ad4" width="100"> | **Partner 1** - We have partnered with TechUK... |
-| <img src="https://github.com/user-attachments/assets/989d7b1e-b60c-4fc2-aaf6-3090e77e33d6" width="100"> | **Partner 2** - We have partnered with GDSA... |
+<img src="https://github.com/user-attachments/assets/e303d4be-248e-4944-8504-26eaea004ad4" width="100"> 
+
+<img src="https://github.com/user-attachments/assets/989d7b1e-b60c-4fc2-aaf6-3090e77e33d6" width="100">
 
 
 ![Partner 1](https://github.com/user-attachments/assets/e303d4be-248e-4944-8504-26eaea004ad4) ![Partner 2](https://github.com/user-attachments/assets/989d7b1e-b60c-4fc2-aaf6-3090e77e33d6)
