@@ -28,11 +28,12 @@ You’ll also find links to a growing collection of recommended books, websites,
 |**Green Software Foundation** | ✔ |  | |  |  |  
 |**Building Green Software by Anne Currie**| ✔ |  |  |  |  |
 |**TechUK Green Coding Toolkit**|  |  |  |  |  |
+|**Defra**| | | | | |
 |**AWS Web Architecture Framework**| |  |  |  |  |
 |**TechCarbonStandard by Scott Logic**|  |  |  |  |  |
 |**Decarbonise Digital by Eric Zie**| ✔ |  | |  |  |
 |**W3C Web Sustainability Guidelines**|✔|  |  |  | |
-|**Defra - Greener Service Principles**|✔| | | | |
+|**Greener Service Principles**|✔| | | | |
 
 *Disclaimer: This table is based on current published research, and does not cover work in progress*
 
