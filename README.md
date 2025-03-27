@@ -32,14 +32,14 @@ You’ll also find links to a growing collection of recommended books, websites,
 |**Defra**|  |  |  |  |  |
 |**TechCarbonStandard by Scott Logic**|  |  |  |  |  |
 |**Decarbonise Digital by Eric Zie**| ✔ |  | |  |  |
-|**W3C Web Sustainability Guidelines**|  |  |  |  | |
+|**W3C Web Sustainability Guidelines**|✔|  |  |  | |
 |**Greener Service Principles**| | | | | |
 
 *Disclaimer: This table is based on current published research, and does not cover work in progress*
 
 ## Table of Contents
 
-- Why building sustainable software is important?
+- Why sustainable software development is important?
 - Practioners Best Practice Guide
 - Sustainable Software Engineering Checklist
 - Categories:
@@ -54,8 +54,10 @@ You’ll also find links to a growing collection of recommended books, websites,
 - Questions
 
 
-## Why building sustainable software is important?
-Add...
+## Why sustainable software development is important?
+Software development is a major contributor to IT-related energy use. Inefficient code, redundant processes, and poor architectural decisions can lead to excessive computational demand, driving up emissions and operational costs. Studies indicate that optimised software can reduce energy consumption across infrastructure, devices, and networks by 25– 50%, making it one of the most effective levers for minimising digital carbon footprints.
+
+The environmental impact of software extends beyond code execution. Poorly designed applications increase hardware requirements, data storage needs, and network load, leading to unnecessary energy consumption at scale. Even user behaviour is influenced by software design, with inefficient workflows and excessive processing contributing to avoidable emissions. Conversely, well-designed software delivers multiple benefits—it enhances system performance, reduces energy use, lowers costs, and improves the overall user experience
 
 ## Practioners Best Practice Guide
 Provided by Standard Bank...
@@ -66,27 +68,44 @@ Provided by Standard Bank...
 ## Categories
 
 ### Energy and Resource Efficiency
-Explanation...
+This includes the following:
+- Energy-Efficient Code Development – Optimising code structure and execution to minimise energy consumption. 
+- Data Efficiency in Software Design – Reducing data transfer, compression, and storage impact on energy use. 
+- Optimising Features and Reducing Redundancy – Eliminating unnecessary functionalities that increase computational load. 
+- Efficient Logging and Polling – Reducing excessive logging and inefficient data queries that increase resource consumption. 
+- Dynamic Power Management – Adapting software operations to power conditions to reduce energy waste. 
 
 You can find all related resources here: [Energy and Resource Efficiency folder](./Energy-and-Resource-Efficiency/)
 
 ### Software Architecture and Design
-Explanation...
+This includes the following:
+- Code Reuse and Modular Design – Encouraging reusable software components to improve efficiency and sustainability. 
+- Application Modernisation for Efficiency – Transitioning to microservices, containerisation, and cloud-native approaches. 
+- Sustainability by Design in User Experience – Creating user journeys that minimise backend computation and energy use. 
+- Eco-Design Framework for Digital Services – Applying lifecycle impact assessments to software design and development.
 
 You can find all related resources here: [Software Architecture and Design folder](./Software-Architecture-and-Design/)
 
 ### Sustainable Hardware and Infrastructure
-Explanation...
+This includes the following:
+- Leveraging Hardware Efficiency – Ensuring software compatibility with diverse hardware to extend device lifecycles. 
+- Carbon-Aware Scheduling – Aligning software execution with low-carbon grid periods to reduce emissions. 
+- E-Waste Reduction – Designing software that extends the lifespan of hardware and reduces electronic waste.
 
 You can find all related resources here: [Sustainable Hardware and Infrastrucutre folder](./Sustainable-Hardware-and-Infrastructure/)
 
 ### Sustainable Development and Operations
-Explanation...
+This includes the following:
+- Integrating Measurement into Development – Embedding sustainability metrics into the software development process.
+- Sustainability Metrics in Performance Benchmarks – Expanding software performance evaluations to include energy and carbon impact. 
+- Automation in Software Development – Implementing CI/CD and automated testing to streamline operations. 
+- Integrating DevOps for Sustainability – Embedding sustainability principles into infrastructure and software deployment.
 
 You can find all related resources here: [Sustainable Development and Operations folder](./Sustainable-Development-and-Operations/)
 
 ### AI and Emerging Technologies
-Explanation...
+This includes the following:
+- AI-Driven Software Development – Leveraging AI for software optimisation while minimising its environmental footprint. 
 
 You can find all related resources here: [AI and Emerging Technologies folder](./AI-and-Emerging-Technologies/)
 
