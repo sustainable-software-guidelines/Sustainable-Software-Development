@@ -37,7 +37,7 @@ You’ll also find links to a growing collection of recommended books, websites,
 
 *Disclaimer: This table is based on current published research, and does not cover work in progress*
 
-## 📌 Table of Contents
+## Table of Contents
 
 - Why building sustainable software is important?
 - Practioners Best Practice Guide
