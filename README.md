@@ -23,16 +23,16 @@ You’ll also find links to a growing collection of recommended books, websites,
 
 ## Summary Table
 
-|                              | Energy and Resource Efficiency|Software Architecture and Design |Sustainable Hardware and Infrastructure|Sustainable Development and Operations|AI and Emerging Technologies|
-|------------------------------|-------------------------------|---------------------------------|---------------------------------------|-------------------------------|-------------------------------|
-|**Green Software Foundation** | ✔ | Tick/Cross |Tick/Cross | Tick/Cross | Tick/Cross |  
+|                                  | Energy and Resource Efficiency|Software Architecture and Design |Sustainable Hardware and Infrastructure|Sustainable Development and Operations|AI and Emerging Technologies|
+|----------------------------------|-------------------------------|---------------------------------|---------------------------------------|-------------------------------|-------------------------------|
+|**Green Software Foundation** | ✔ |  | |  |  |  
 |**Building Green Software by Anne Currie**| ✔ |  |  |  |  |
 |**TechUK Green Coding Toolkit**|  |  |  |  |  |
 |**AWS Web Architecture Framework**| |  |  |  |  |
 |**TechCarbonStandard by Scott Logic**|  |  |  |  |  |
 |**Decarbonise Digital by Eric Zie**| ✔ |  | |  |  |
 |**W3C Web Sustainability Guidelines**|✔|  |  |  | |
-|**Defra - Greener Service Principles**| | | | | |
+|**Defra - Greener Service Principles**|✔| | | | |
 
 *Disclaimer: This table is based on current published research, and does not cover work in progress*
 
