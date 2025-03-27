@@ -1,4 +1,4 @@
-# 🌿 Guidelines for Developing Energy Efficient and Sustainable Software
+# Guidelines for Developing Energy Efficient and Sustainable Software
 
 Welcome to the Software—Guidelines for Developing Energy-Efficient and Sustainable Software Repository!
 
@@ -33,36 +33,37 @@ You’ll also find links to a growing collection of recommended books, websites,
 |**TechCarbonStandard by Scott Logic**|  |  |  |  |  |
 |**Decarbonise Digital by Eric Zie**|  |  | |  |  |
 |**W3C Web Sustainability Guidelines**|  |  |  |  | |
+|**Defra Greener Service Principles**| | | | | |
 
 *Disclaimer: This table is based on current published research, and does not cover work in progress*
 
 ## 📌 Table of Contents
 
-- 🌎 Why building sustainable software is important?
-- 📜 Practioners Best Practice Guide
-- 👨‍💻 Sustainable Software Engineering Checklist
-- 📚 Categories:
+- Why building sustainable software is important?
+- Practioners Best Practice Guide
+- Sustainable Software Engineering Checklist
+- Categories:
   - [Energy and Resource Efficiency](#energy-and-resource-efficiency)
   - [Software Architecture and Design](#software-architecture-and-design)
   - [Sustainable Hardware and Infrastrucutre](#sustainable-hardware-and-infrastructure)
   - [Sustainable Development and Operations](#sustainable-development-and-operations)
   - [AI and Emerging Technologies](#ai-and-emerging-technologies)
-- 🔎 Case Studies
-- 💡 How to Contribute
-- 📖 Licensing
-- 🧠 Questions
+- Case Studies
+- How to Contribute
+- Licensing
+- Questions
 
 
-## 🌎 Why building sustainable software is important?
+## Why building sustainable software is important?
 Add...
 
-## 📜 Practioners Best Practice Guide
+## Practioners Best Practice Guide
 Provided by Standard Bank...
 
-## 👨‍💻 Sustainable Software Engineering Checklist
+## Sustainable Software Engineering Checklist
 Provided by Standard Bank...
 
-## 📚 Categories
+## Categories
 
 ### Energy and Resource Efficiency
 Explanation...
@@ -89,25 +90,25 @@ Explanation...
 
 You can find all related resources here: [AI and Emerging Technologies folder](./AI-and-Emerging-Technologies/)
 
-## 🔎 Case Studies
+## Case Studies
 We believe case studies bring everything to life. Here you will find a collection of success stores and case studies that showcase energy efficient and sustainable software. 
 
-## 💡 How to Contribute
+## How to Contribute
 We welcome contributions! If you would like to suggest improvements, add new resources, or share implementation experiences, please open an issue or submit a pull request. Together, we can advance sustainable digital development for everyone.
 Check out [Contributions](./Contributing.md/) for more details.
 
 
-## 📖 Licensing
+## Licensing
 All materials in this repository are shared under the Creative Commons Attribution 4.0 International License (CC BY 4.0), unless otherwise stated. You are free to use, adapt, and share the content with appropriate attribution.
 
 By submitting a contribution, you agree that it will be released under the repository’s Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 
-## 🧠 Questions
+## Questions
 Feel free to open an issue to start a discussion or ask for clarification before submitting a pull request.
 
 
-🚀 **Together, we can build a more sustainable digital future.**
+**Together, we can build a more sustainable digital future.**
 
 
 
