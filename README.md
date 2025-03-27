@@ -25,15 +25,15 @@ You’ll also find links to a growing collection of recommended books, websites,
 
 |                                  | Energy and Resource Efficiency|Software Architecture and Design |Sustainable Hardware and Infrastructure|Sustainable Development and Operations|AI and Emerging Technologies|
 |----------------------------------|-------------------------------|---------------------------------|---------------------------------------|-------------------------------|-------------------------------|
-|**Green Software Foundation** | ✔ |  | |  |  |  
-|**Building Green Software by Anne Currie**| ✔ |  |  |  |  |
+|**Green Software Foundation** | ✔ | ✔ | ✔ | ✔ | ✔ |  
+|**Building Green Software by Anne Currie et al**| ✔ | ✔ | ✔ |  | ✔ |
 |**TechUK Green Coding Toolkit**|  |  |  |  |  |
 |**Defra**| | | | | |
 |**AWS Web Architecture Framework**| |  |  |  |  |
 |**TechCarbonStandard by Scott Logic**|  |  |  |  |  |
 |**Decarbonise Digital by Eric Zie**| ✔ |  | |  |  |
-|**W3C Web Sustainability Guidelines**|✔|  |  |  | |
-|**Greener Service Principles**|✔| | | | |
+|**W3C Web Sustainability Guidelines**| ✔ | ✔ | ✔ | ✔ |  |
+|**Greener Service Principles**|✔| | | | ✔ |
 
 *Disclaimer: This table is based on current published research, and does not cover work in progress*
 
