@@ -30,7 +30,7 @@ You’ll also find links to a growing collection of recommended books, websites,
 |**TechUK Green Coding Toolkit**|  |  |  |  |  |
 |**AWS Web Architecture Framework**| |  |  |  |  |
 |**TechCarbonStandard by Scott Logic**|  |  |  |  |  |
-|**Decarbonise Digital by Eric Zie**| ✔ |  | |  |  |
+|**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| ✔ |  | |  |  |
 |**W3C Web Sustainability Guidelines**| ✔ | ✔ | ✔ | ✔ |  |
 |**Defra Greener Service Principles**|✔| ✔ | ✔ | ✔ | ✔ |
 |**Green Web Foundation**| |  |  |  |  |
