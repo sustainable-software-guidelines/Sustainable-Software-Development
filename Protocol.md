@@ -8,12 +8,14 @@ Our literature search was initiated through a consultation with an industry expe
 - Relevance: The resource must align with the key aspects of sustainable software development
 - Credibility: Only authoritative sources were included.
 - Recency: The source must be relatively recent to reflect the latest trends and technologies in sustainability. 
+
 This methodical approach to resource selection is critical to ensuring the integrity of our findings and that the practices identified are reflective of current, credible standards.
 
 ### Screening Process:
 The screening process followed a systematic approach to reduce bias and ensure diverse perspectives. To achieve this, we established rigorous inclusion and exclusion criteria:
 - Inclusion Criteria: Resources that meet the relevance, credibility, and recency standards outlined earlier.
 - Exclusion Criteria: Any materials that lacked clear evidence of practical application, were outdated, or came from questionable sources were excluded.
+
 Multiple reviewers participated in the screening process to help reduce personal biases and ensure a more holistic view. Each reviewer was tasked with independently evaluating resources based on the criteria, followed by group discussions to address potential discrepancies and ensure consensus. This process adds rigor to our methodology, minimizing errors and providing greater reliability.
 
 ### Synthesis of Findings:
@@ -23,4 +25,5 @@ After screening, the identified resources were categorized into five major theme
 - Sustainable Development and Operations: 
 - Sustainable Hardware and Infrastructure: 
 - AI and Emerging Technologies: 
+
 The categorization was carried out with the goal of making the findings as navigable and user-friendly as possible. By organizing the information into distinct, relevant themes, users can quickly locate the practices most relevant to their specific needs, ensuring both clarity and utility.
