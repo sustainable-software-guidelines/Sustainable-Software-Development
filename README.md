@@ -34,7 +34,7 @@ You’ll also find links to a growing collection of recommended books, websites,
 |**W3C Web Sustainability Guidelines**| ✔ | ✔ | ✔ | ✔ |  |
 |**Defra Greener Service Principles**|✔| ✔ | ✔ | ✔ | ✔ |
 |**Green Web Foundation**| |  |  |  |  |
-|**SustainableIT Standards**| |  |  |  |  |
+|**SustainableIT Standards**|  |  |  | ✔ |  |
 
 *Disclaimer: This table is based on current published research, and does not cover work in progress*
 
