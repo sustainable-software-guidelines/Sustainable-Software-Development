@@ -110,7 +110,7 @@ This includes the following:
 You can find all related resources here: [AI and Emerging Technologies folder](./AI-and-Emerging-Technologies/)
 
 ## Case Studies
-We believe case studies bring everything to life. Here you will find a collection of success stores and case studies that showcase energy efficient and sustainable software. 
+We believe case studies bring everything to life. Here you will find a collection of success stories and case studies that showcase energy efficient and sustainable software. 
 
 ## How to Contribute
 We welcome contributions! If you would like to suggest improvements, add new resources, or share implementation experiences, please open an issue or submit a pull request. Together, we can advance sustainable digital development for everyone.
