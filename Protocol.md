@@ -15,20 +15,23 @@ This methodical approach to resource selection is critical to ensuring the integ
 ### Screening Process:
 The screening process followed a systematic approach to reduce bias and ensure diverse perspectives. To achieve this, we established rigorous inclusion and exclusion criteria:
 - Inclusion Criteria: Resources that meet the relevance, credibility, and recency standards outlined earlier.
-- Exclusion Criteria: Any materials lacking clear evidence of practical application, outdated, or from questionable sources were excluded.
+- Exclusion Criteria: Materials that are outdated, lack evidence of practical application, or have a commercial focus, including marketing materials or direct product or sales-related material.
 
 Multiple reviewers participated in the screening process to help reduce personal biases and ensure a more holistic view. Each reviewer was tasked with independently evaluating resources based on the criteria, followed by group discussions to address potential discrepancies and ensure consensus. This process adds rigour to our methodology, minimising errors and providing greater reliability.
 
 ### Synthesis of Findings:
-After screening, the identified resources were categorised into five major themes to create a logical and accessible structure. These categories cover the primary aspects of sustainable software development, and we believe they offer a comprehensive overview of the field:
-- Energy and Resource Efficiency: 
--	Software Architecture and Design: 
--	Sustainable Development and Operations: 
--	Sustainable Hardware and Infrastructure: 
--	AI and Emerging Technologies: 
+Following a rigorous screening and analysis process, the identified resources were evaluated, tested, and synthesised into five core categories. These themes were established to provide a clear, accessible, and comprehensive structure for sustainable software engineering best practices—reflecting the area’s most critical to reducing environmental impact across the software lifecycle.
 
-The categorisation was done to make the findings as navigable and user-friendly as possible. Organising the information into distinct, relevant themes allows users to quickly locate the practices most pertinent to their specific needs, ensuring clarity and utility.
+The five categories are:
 
+•	Energy and Resource Efficiency
+•	Software Architecture and Design
+•	Sustainable Development and Operations
+•	Sustainable Hardware and Infrastructure
+•	AI and Emerging Technologies
+
+This categorisation is the result of a methodical review and consolidation of best 
+practices drawn from research, industry experience, and real-world application. The structure is designed to be practical and easy to navigate—enabling users to pinpoint relevant practices quickly and apply them in context. It ensures depth and usability, supporting organisations in identifying the most effective levers for sustainable impact.
 
 
 
