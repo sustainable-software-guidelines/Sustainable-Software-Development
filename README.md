@@ -35,6 +35,7 @@ You’ll also find links to a growing collection of recommended books, websites,
 |**Defra Greener Service Principles**|✔| ✔ | ✔ | ✔ | ✔ |
 |**Green Web Foundation**| |  |  |  |  |
 |**SustainableIT Standards**|  |  |  | ✔ |  |
+|**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ | ✔ | ✔ | ✔ | ✔ |
 
 *Disclaimer: This table is based on current published research, and does not cover work in progress*
 
