@@ -24,11 +24,11 @@ Following a rigorous screening and analysis process, the identified resources we
 
 The five categories are:
 
-•	Energy and Resource Efficiency
-•	Software Architecture and Design
-•	Sustainable Development and Operations
-•	Sustainable Hardware and Infrastructure
-•	AI and Emerging Technologies
+-	Energy and Resource Efficiency
+-	Software Architecture and Design
+-	Sustainable Development and Operations
+-	Sustainable Hardware and Infrastructure
+-	AI and Emerging Technologies
 
 This categorisation is the result of a methodical review and consolidation of best 
 practices drawn from research, industry experience, and real-world application. The structure is designed to be practical and easy to navigate—enabling users to pinpoint relevant practices quickly and apply them in context. It ensures depth and usability, supporting organisations in identifying the most effective levers for sustainable impact.
