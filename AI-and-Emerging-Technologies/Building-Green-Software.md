@@ -1,1 +1,1 @@
-For this resource, the relevant chapter is Chapter 8, and you can find the book [here](https://www.oreilly.com/library/view/building-green-software/9781098150617/) 
+You can find practices related to AI driven software development in Chapter 8 of this book. The book can be found [here.](https://www.oreilly.com/library/view/building-green-software/9781098150617/) 
