@@ -1,3 +1,3 @@
 ### Green Software Foundation 
 
-You can find practices relatated to Energy and Resource Efficiency [here.](https://github.com/Green-Software-Foundation/patterns/tree/main/docs/catalog)
+You can find practices relatated to Software Architecture and Design [here.](https://github.com/Green-Software-Foundation/patterns/tree/main/docs/catalog)
