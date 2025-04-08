@@ -14,11 +14,6 @@ As part of this contribution, a practical checklist has been provided — design
 
 You’ll also find links to a growing collection of recommended books, websites, videos, and courses to support continuous learning and awareness of the latest advances in sustainable software development.
 
-## Our Partners
-
-<p align="center">
-  <img src="https://i.imgur.com/YCcnMiV.png" width="300">
-</p>
 
 
 ## Summary Table
