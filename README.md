@@ -102,8 +102,8 @@ This includes the following:
 
 #### Technical Expertise Table
 
-|                                  | High|Medium |Low|
-|----------------------------------|-------------------------------|---------------------------------|---------------------------------------|
+|                                  | Advanced | Intermediate | Beginner |
+|----------------------------------|----------|--------------|----------|
 |**Green Software Foundation** | ✔ |  |  | 
 |**Building Green Software by Anne Currie et al.**|  | ✔ |  |
 |**AWS Web Architecture Framework**|  | ✔ |  |
