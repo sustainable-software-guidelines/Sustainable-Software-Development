@@ -166,7 +166,19 @@ You can find all related resources here: [Sustainable Development and Operations
 
 ### AI and Emerging Technologies
 This includes the following:
-- AI-Driven Software Development – Leveraging AI for software optimisation while minimising its environmental footprint. 
+- AI-Driven Software Development – Leveraging AI for software optimisation while minimising its environmental footprint.
+
+#### Technical Expertise Table
+
+|                                  | Advanced | Intermediate | Beginner |
+|----------------------------------|----------|--------------|----------|
+|**Green Software Foundation** | ✔ |  |  | 
+|**Building Green Software by Anne Currie et al.**|  | ✔ |  |
+|**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
+|**Defra Greener Service Principles**|  | ✔ |  |
+|**Green Web Foundation**| ✔ |  |  |
+|**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ |  |  |
+
 
 You can find all related resources here: [AI and Emerging Technologies folder](./AI-and-Emerging-Technologies/)
 
