@@ -100,6 +100,20 @@ This includes the following:
 - Sustainability by Design in User Experience – Creating user journeys that minimise backend computation and energy use. 
 - Eco-Design Framework for Digital Services – Applying lifecycle impact assessments to software design and development.
 
+#### Technical Expertise Table
+
+|                                  | High|Medium |Low|
+|----------------------------------|-------------------------------|---------------------------------|---------------------------------------|
+|**Green Software Foundation** | ✔ |  |  | 
+|**Building Green Software by Anne Currie et al.**|  | ✔ |  |
+|**AWS Web Architecture Framework**|  | ✔ |  |
+|**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
+|**W3C Web Sustainability Guidelines**| ✔ |  |  |
+|**Defra Greener Service Principles**| ✔|  |  |
+|**Green Web Foundation**| ✔ |  |  |
+|**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ |  |  |
+
+
 You can find all related resources here: [Software Architecture and Design folder](./Software-Architecture-and-Design/)
 
 ### Sustainable Hardware and Infrastructure
