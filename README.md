@@ -122,6 +122,21 @@ This includes the following:
 - Carbon-Aware Scheduling – Aligning software execution with low-carbon grid periods to reduce emissions. 
 - E-Waste Reduction – Designing software that extends the lifespan of hardware and reduces electronic waste.
 
+## Technical Expertise Table
+
+|                                  | Advanced | Intermediate | Beginner |
+|----------------------------------|----------|--------------|----------|
+|**Green Software Foundation** | ✔ |  |  | 
+|**Building Green Software by Anne Currie et al.**|  | ✔ |  |
+|**AWS Web Architecture Framework**|  | ✔ |  |
+|**Tech Carbon Standard by Scott Logic**|  |  | ✔ |
+|**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
+|**W3C Web Sustainability Guidelines**|  ✔ |  |  |
+|**Defra Greener Service Principles**|  | ✔|  |
+|**Green Web Foundation**| ✔ |  |  |
+|**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ |  |  |
+
+
 You can find all related resources here: [Sustainable Hardware and Infrastrucutre folder](./Sustainable-Hardware-and-Infrastructure/)
 
 ### Sustainable Development and Operations
