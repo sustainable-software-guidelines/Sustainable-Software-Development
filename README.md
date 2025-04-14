@@ -77,7 +77,7 @@ This includes the following:
 - Efficient Logging and Polling – Reducing excessive logging and inefficient data queries that increase resource consumption. 
 - Dynamic Power Management – Adapting software operations to power conditions to reduce energy waste.
 
-## Technical Expertise Table
+#### Technical Expertise Table
 
 |                                  | Advanced | Intermediate | Beginner |
 |----------------------------------|----------|--------------|----------|
