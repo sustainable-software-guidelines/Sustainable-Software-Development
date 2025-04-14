@@ -1,6 +1,6 @@
-## Summary Table
+## 'Technicality' Summary Table
 
-|                                  | Energy and Resource Efficiency|Software Architecture and Design |Sustainable Hardware and Infrastructure|Sustainable Development and Operations|AI and Emerging Technologies|
+|                                  | High|Medium |Low |
 |----------------------------------|-------------------------------|---------------------------------|---------------------------------------|-------------------------------|-------------------------------|
 |**Green Software Foundation** | ✔ | ✔ | ✔ | ✔ | ✔ |  
 |**Building Green Software by Anne Currie et al.**| ✔ | ✔ | ✔ | ✔ | ✔ |
