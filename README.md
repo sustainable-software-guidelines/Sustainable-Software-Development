@@ -122,7 +122,7 @@ This includes the following:
 - Carbon-Aware Scheduling – Aligning software execution with low-carbon grid periods to reduce emissions. 
 - E-Waste Reduction – Designing software that extends the lifespan of hardware and reduces electronic waste.
 
-## Technical Expertise Table
+#### Technical Expertise Table
 
 |                                  | Advanced | Intermediate | Beginner |
 |----------------------------------|----------|--------------|----------|
@@ -145,6 +145,22 @@ This includes the following:
 - Sustainability Metrics in Performance Benchmarks – Expanding software performance evaluations to include energy and carbon impact. 
 - Automation in Software Development – Implementing CI/CD and automated testing to streamline operations. 
 - Integrating DevOps for Sustainability – Embedding sustainability principles into infrastructure and software deployment.
+
+#### Technical Expertise Table
+
+|                                  | Advanced | Intermediate | Beginner |
+|----------------------------------|----------|--------------|----------|
+|**Green Software Foundation** | ✔ |  |  | 
+|**Building Green Software by Anne Currie et al.**|  | ✔ |  |
+|**AWS Web Architecture Framework**|  | ✔ |  |
+|**Tech Carbon Standard by Scott Logic**|  |  | ✔ |
+|**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
+|**W3C Web Sustainability Guidelines**| ✔ |  |  |
+|**Defra Greener Service Principles**|  | ✔  |  |
+|**Green Web Foundation**| ✔ |  |  |
+|**SustainableIT Standards**|  | ✔|  |
+|**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ |  |  |
+
 
 You can find all related resources here: [Sustainable Development and Operations folder](./Sustainable-Development-and-Operations/)
 
