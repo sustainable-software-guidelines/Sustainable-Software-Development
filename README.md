@@ -62,6 +62,11 @@ Provided by ...
 ## Sustainable Software Engineering Checklist
 Provided by ...
 
+## Technical Levels Explained
+For each resource, we have specified a recommended level of technical expertise to better align with your needs and facilitate easier navigation. These levels are categorized as Beginner, Intermediate, and Advanced.
+
+Advanced resources offer in-depth technical guidance, including practices such as code snippets and implementation details. Beginner resources provide high-level overviews of practices in a more accessible and easy-to-understand format. Intermediate resources serve as a balance between the two, offering a moderate level of technical detail.
+
 ## Categories
 
 ### Energy and Resource Efficiency
@@ -70,7 +75,21 @@ This includes the following:
 - Data Efficiency in Software Design – Reducing data transfer, compression, and storage impact on energy use. 
 - Optimising Features and Reducing Redundancy – Eliminating unnecessary functionalities that increase computational load. 
 - Efficient Logging and Polling – Reducing excessive logging and inefficient data queries that increase resource consumption. 
-- Dynamic Power Management – Adapting software operations to power conditions to reduce energy waste. 
+- Dynamic Power Management – Adapting software operations to power conditions to reduce energy waste.
+
+## Technical Expertise Table
+
+|                                  | Advanced | Intermediate | Beginner |
+|----------------------------------|----------|--------------|----------|
+|**Green Software Foundation** | ✔ |  |  | 
+|**Building Green Software by Anne Currie et al.**|  | ✔ |  |
+|**AWS Web Architecture Framework**|  | ✔ |  |
+|**Tech Carbon Standard by Scott Logic**|  |  | ✔ |
+|**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
+|**W3C Web Sustainability Guidelines**| ✔ |  |  |
+|**Defra Greener Service Principles**| | ✔ | |
+|**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ |  |  |
+
 
 You can find all related resources here: [Energy and Resource Efficiency folder](./Energy-and-Resource-Efficiency/)
 
