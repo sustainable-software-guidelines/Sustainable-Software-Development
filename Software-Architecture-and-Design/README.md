@@ -7,6 +7,6 @@
 |**AWS Web Architecture Framework**|  | ✔ |  |
 |**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
 |**W3C Web Sustainability Guidelines**| ✔ |  |  |
-|**Defra Greener Service Principles**| ✔|  |  |
+|**Defra Greener Service Principles**| | ✔ |  |
 |**Green Web Foundation**| ✔ |  |  |
 |**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ |  |  |
