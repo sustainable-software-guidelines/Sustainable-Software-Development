@@ -22,7 +22,7 @@ You’ll also find links to a growing collection of recommended books, websites,
 |----------------------------------|-------------------------------|---------------------------------|---------------------------------------|-------------------------------|-------------------------------|
 |**Green Software Foundation** | ✔ | ✔ | ✔ | ✔ | ✔ |  
 |**Building Green Software by Anne Currie et al.**| ✔ | ✔ | ✔ | ✔ | ✔ |
-|**TechUK Green Coding Toolkit**|  |  |  |  |  |
+|**TechUK Green Coding Toolkit (pending)**|  |  |  |  |  |
 |**AWS Web Architecture Framework**| ✔ | ✔ | ✔ | ✔ |  |
 |**TechCarbonStandard by Scott Logic**| ✔ |  | ✔ | ✔ |  |
 |**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| ✔| ✔| ✔| ✔ |✔|
