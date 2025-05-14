@@ -1,4 +1,4 @@
-# Protocol for Review of Best Practices
+# Methodology for Review of Best Practices
 
 ### Objective:
 This research aims to create a comprehensive and reliable repository of best practices for developing sustainable software. This collection will serve as a go-to resource for practitioners, making it easier for them to access credible, effective, and up-to-date sustainability practices. Our approach is designed to ensure the reliability of the practices included and their relevance to current industry standards.
