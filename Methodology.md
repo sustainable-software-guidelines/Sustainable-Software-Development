@@ -32,13 +32,3 @@ The five categories are:
 - AI and Emerging Technologies
 
 This categorisation is the result of a methodical review and consolidation of best practices drawn from research, industry experience, and real-world application. Our methodology ensures that the resources provide explicit, actionable practices to reduce the environmental impact of digital products and services. We carefully documented these practices, aligning them with the relevant category listed above. The structure is designed to be practical and easy to navigate—enabling users to pinpoint relevant practices quickly and apply them in context. Rather than summarising each resource, our approach aims to direct users to the original materials, maintaining the depth and usability of the source information to support organisations in identifying the most effective levers for sustainable impact. Users are encouraged to explore the full details through the original owners.
-
-
-
-
-
-
-
-
-
-
