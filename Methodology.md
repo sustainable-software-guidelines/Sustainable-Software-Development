@@ -32,3 +32,11 @@ The five categories are:
 - AI and Emerging Technologies
 
 This categorisation is the result of a methodical review and consolidation of best practices drawn from research, industry experience, and real-world application. Our methodology ensures that the resources provide explicit, actionable practices to reduce the environmental impact of digital products and services. We carefully documented these practices, aligning them with the relevant category listed above. The structure is designed to be practical and easy to navigate enabling users to pinpoint relevant practices quickly and apply them in context. Rather than summarising each resource, our approach aims to direct users to the original materials, preserving the depth and usability of the source information to support organisations in identifying the most effective levers for sustainable impact. Users are encouraged to explore the full details through the original owners.
+
+To enhance the usability and accessibility of the repository, each resource has been annotated with a recommended level of technical expertise. These levels—Beginner, Intermediate, and Advanced—are intended to support users in selecting resources that align with their existing knowledge and needs, thereby facilitating more efficient navigation and engagement.
+
+- Beginner-level resources provide high-level overviews and conceptual explanations, offering accessible entry points for individuals with limited technical background or those new to sustainable software practices.
+- Intermediate-level resources strike a balance, presenting moderate technical depth suitable for practitioners with some familiarity with software development concepts.
+- Advanced-level resources include in-depth technical guidance, such as detailed implementation strategies, code examples, and low-level optimisation techniques, targeting experienced practitioners and technical specialists.
+
+This classification system ensures that the repository accommodates a broad range of users and encourages incremental learning across varying levels of expertise.
