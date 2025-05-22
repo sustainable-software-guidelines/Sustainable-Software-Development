@@ -1,6 +1,6 @@
 # Guidelines for Developing Energy Efficient and Environmentally Sustainable Software
 
-Welcome to the Software—Guidelines for Developing Energy-Efficient and Sustainable Software Repository!
+Welcome to the Guidelines for Developing Energy-Efficient and Sustainable Software Repository!
 
 This repository forms part of the Green Digital Action pillar under the United Nations International Telecommunication Union (UN ITU). It supports the global effort to embed sustainability into software     development by curating and sharing best practices, technical guidance, and actionable resources.
 
@@ -50,8 +50,10 @@ You’ll also find links to a growing collection of recommended books, websites,
 - Licensing
 - Questions
 
+## What do we mean by sustainable software?
+We refer to sustainable software as software that is designed, developed, deployed and maintained with the aim of minimising its environmental impact across its full lifecycle. Our focus is particularly on energy use and carbon emissions.
 
-## Why sustainable software development is important?
+## Why is sustainable software development important?
 Software development is a major contributor to IT-related energy use. Inefficient code, redundant processes, and poor architectural decisions can lead to excessive computational demand, driving up emissions and operational costs. Studies indicate that optimised software can reduce energy consumption across infrastructure, devices, and networks by 25– 50%, making it one of the most effective levers for minimising digital carbon footprints.
 
 The environmental impact of software extends beyond code execution. Poorly designed applications increase hardware requirements, data storage needs, and network load, leading to unnecessary energy consumption at scale. Even user behaviour is influenced by software design, with inefficient workflows and excessive processing contributing to avoidable emissions. Conversely, well-designed software delivers multiple benefits—it enhances system performance, reduces energy use, lowers costs, and improves the overall user experience
