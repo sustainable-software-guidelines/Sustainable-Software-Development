@@ -1,4 +1,4 @@
-# Guidelines for Developing Energy Efficient and Sustainable Software
+# Guidelines for Developing Energy Efficient and Environmentally Sustainable Software
 
 Welcome to the Software—Guidelines for Developing Energy-Efficient and Sustainable Software Repository!
 
