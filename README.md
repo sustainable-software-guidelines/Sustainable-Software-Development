@@ -117,6 +117,7 @@ This includes the following:
 |**Defra Greener Service Principles**| ✔|  |  |
 |**Green Web Foundation**| ✔ |  |  |
 |**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ |  |  |
+|**BJSS Guide to Green Software Development**| | |✔|
 
 
 You can find all related resources here: [Software Architecture and Design folder](./Software-Architecture-and-Design/)
@@ -165,6 +166,7 @@ This includes the following:
 |**Green Web Foundation**| ✔ |  |  |
 |**SustainableIT Standards**|  | ✔|  |
 |**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ |  |  |
+|**BJSS Guide to Green Software Development**| | |✔|
 
 
 You can find all related resources here: [Sustainable Development and Operations folder](./Sustainable-Development-and-Operations/)
