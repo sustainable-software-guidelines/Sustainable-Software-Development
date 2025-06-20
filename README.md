@@ -91,8 +91,9 @@ This includes the following:
 |**Tech Carbon Standard by Scott Logic**|  |  | ✔ |
 |**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
 |**W3C Web Sustainability Guidelines**| ✔ |  |  |
-|**Defra Greener Service Principles**| | ✔ | |
-|**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ |  |  |
+|**Defra Greener Service Principles**| |✔| |
+|**Arcom General Policy Framework for the Ecodesign of Digital Services**|✔| | |
+|**BJSS Guide to Green Software Development**| | |✔|
 
 
 You can find all related resources here: [Energy and Resource Efficiency folder](./Energy-and-Resource-Efficiency/)
