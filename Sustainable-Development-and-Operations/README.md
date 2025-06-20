@@ -12,3 +12,4 @@
 |**Green Web Foundation**| ✔ |  |  |
 |**SustainableIT Standards**|  | ✔|  |
 |**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ |  |  |
+|**BJSS Guide to Green Software Development**| | |✔|
