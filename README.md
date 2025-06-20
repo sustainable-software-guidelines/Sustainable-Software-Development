@@ -31,6 +31,8 @@ You’ll also find links to a growing collection of recommended books, websites,
 |**Green Web Foundation**|  | ✔ | ✔ | ✔ | ✔ |
 |**SustainableIT Standards**|  |  |  | ✔ |  |
 |**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ | ✔ | ✔ | ✔ | ✔ |
+|**BJSS Guide to Green Software Development**| ✔ | ✔ |  | ✔ | |
+
 
 *Disclaimer: This table is based on current published research, and does not cover work in progress*
 
