@@ -10,4 +10,3 @@
 |**W3C Web Sustainability Guidelines**| ✔ |  |  |
 |**Defra Greener Service Principles**| | ✔ | |
 |**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ |  |  |
-|**BJSS Guide to Green Software Development**| | |✔|
