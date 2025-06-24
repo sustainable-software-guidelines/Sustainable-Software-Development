@@ -58,12 +58,6 @@ Software development is a major contributor to IT-related energy use. Inefficien
 
 The environmental impact of software extends beyond code execution. Poorly designed applications increase hardware requirements, data storage needs, and network load, leading to unnecessary energy consumption at scale. Even user behaviour is influenced by software design, with inefficient workflows and excessive processing contributing to avoidable emissions. Conversely, well-designed software delivers multiple benefits—it enhances system performance, reduces energy use, lowers costs, and improves the overall user experience
 
-## Practioners Best Practice Guide
-Provided by ...
-
-## Sustainable Software Engineering Checklist
-Provided by ...
-
 ## Technical Levels Explained
 For each resource, we have specified a recommended level of technical expertise to better align with your needs and facilitate easier navigation. These levels are categorized as Beginner, Intermediate, and Advanced.
 
