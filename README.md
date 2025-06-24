@@ -31,8 +31,6 @@ You’ll also find links to a growing collection of recommended books, websites,
 |**Green Web Foundation**|  | ✔ | ✔ | ✔ | ✔ |
 |**SustainableIT Standards**|  |  |  | ✔ |  |
 |**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ | ✔ | ✔ | ✔ | ✔ |
-|**BJSS Guide to Green Software Development**| ✔ | ✔ |  | ✔ | |
-
 
 *Disclaimer: This table is based on current published research, and does not cover work in progress*
 
@@ -93,8 +91,6 @@ This includes the following:
 |**W3C Web Sustainability Guidelines**| ✔ |  |  |
 |**Defra Greener Service Principles**| |✔| |
 |**Arcom General Policy Framework for the Ecodesign of Digital Services**|✔| | |
-|**BJSS Guide to Green Software Development**| | |✔|
-
 
 You can find all related resources here: [Energy and Resource Efficiency folder](./Energy-and-Resource-Efficiency/)
 
@@ -117,8 +113,6 @@ This includes the following:
 |**Defra Greener Service Principles**| ✔|  |  |
 |**Green Web Foundation**| ✔ |  |  |
 |**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ |  |  |
-|**BJSS Guide to Green Software Development**| | |✔|
-
 
 You can find all related resources here: [Software Architecture and Design folder](./Software-Architecture-and-Design/)
 
@@ -166,8 +160,6 @@ This includes the following:
 |**Green Web Foundation**| ✔ |  |  |
 |**SustainableIT Standards**|  | ✔|  |
 |**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ |  |  |
-|**BJSS Guide to Green Software Development**| | |✔|
-
 
 You can find all related resources here: [Sustainable Development and Operations folder](./Sustainable-Development-and-Operations/)
 
