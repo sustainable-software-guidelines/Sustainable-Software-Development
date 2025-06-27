@@ -4,7 +4,7 @@
 |----------------------------------|-------------------------------|---------------------------------|---------------------------------------|
 |**Green Software Foundation** | ✔ |  |  | 
 |**Building Green Software by Anne Currie et al.**|  | ✔ |  |
-|**AWS Web Architecture Framework**|  | ✔ |  |
+|**AWS Well-Architected Framework**|  | ✔ |  |
 |**Tech Carbon Standard by Scott Logic**|  |  | ✔ |
 |**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
 |**W3C Web Sustainability Guidelines**| ✔ |  |  |
