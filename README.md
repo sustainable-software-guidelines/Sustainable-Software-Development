@@ -23,7 +23,7 @@ You’ll also find links to a growing collection of recommended books, websites,
 |**Green Software Foundation** | ✔ | ✔ | ✔ | ✔ | ✔ |  
 |**Building Green Software by Anne Currie et al.**| ✔ | ✔ | ✔ | ✔ | ✔ |
 |**TechUK Green Coding Toolkit** (pending)|  |  |  |  |  |
-|**AWS Web Architecture Framework**| ✔ | ✔ | ✔ | ✔ |  |
+|**AWS Well-Architected Framework**| ✔ | ✔ | ✔ | ✔ |  |
 |**TechCarbonStandard by Scott Logic**| ✔ |  | ✔ | ✔ |  |
 |**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| ✔| ✔| ✔| ✔ |✔|
 |**W3C Web Sustainability Guidelines**| ✔ | ✔ | ✔ | ✔ |  |
@@ -79,7 +79,7 @@ This includes the following:
 |----------------------------------|----------|--------------|----------|
 |**Green Software Foundation** | ✔ |  |  | 
 |**Building Green Software by Anne Currie et al.**|  | ✔ |  |
-|**AWS Web Architecture Framework**|  | ✔ |  |
+|**AWS Well-Architected Framework**|  | ✔ |  |
 |**Tech Carbon Standard by Scott Logic**|  |  | ✔ |
 |**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
 |**W3C Web Sustainability Guidelines**| ✔ |  |  |
@@ -101,7 +101,7 @@ This includes the following:
 |----------------------------------|----------|--------------|----------|
 |**Green Software Foundation** | ✔ |  |  | 
 |**Building Green Software by Anne Currie et al.**|  | ✔ |  |
-|**AWS Web Architecture Framework**|  | ✔ |  |
+|**AWS Well-Architected Framework**|  | ✔ |  |
 |**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
 |**W3C Web Sustainability Guidelines**| ✔ |  |  |
 |**Defra Greener Service Principles**| ✔|  |  |
@@ -122,7 +122,7 @@ This includes the following:
 |----------------------------------|----------|--------------|----------|
 |**Green Software Foundation** | ✔ |  |  | 
 |**Building Green Software by Anne Currie et al.**|  | ✔ |  |
-|**AWS Web Architecture Framework**|  | ✔ |  |
+|**AWS Well-Architected Framework**|  | ✔ |  |
 |**Tech Carbon Standard by Scott Logic**|  |  | ✔ |
 |**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
 |**W3C Web Sustainability Guidelines**|  ✔ |  |  |
@@ -146,7 +146,7 @@ This includes the following:
 |----------------------------------|----------|--------------|----------|
 |**Green Software Foundation** | ✔ |  |  | 
 |**Building Green Software by Anne Currie et al.**|  | ✔ |  |
-|**AWS Web Architecture Framework**|  | ✔ |  |
+|**AWS Well-Architected Framework**|  | ✔ |  |
 |**Tech Carbon Standard by Scott Logic**|  |  | ✔ |
 |**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
 |**W3C Web Sustainability Guidelines**| ✔ |  |  |
