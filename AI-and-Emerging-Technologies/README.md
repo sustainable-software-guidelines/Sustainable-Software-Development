@@ -4,6 +4,7 @@
 |----------------------------------|----------|--------------|----------|
 |**Green Software Foundation** | ✔ |  |  | 
 |**Building Green Software by Anne Currie et al.**|  | ✔ |  |
+|**Azure Well-Architected Framework**| ✔ |  |  | 
 |**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
 |**Defra Greener Service Principles**|  | ✔ |  |
 |**Green Web Foundation**| ✔ |  |  |
