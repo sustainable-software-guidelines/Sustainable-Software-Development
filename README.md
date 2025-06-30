@@ -182,7 +182,7 @@ This includes the following:
 |**Green Web Foundation**| ✔ |  |  |
 |**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ |  |  |
 
-Areas Under Observation:
+#### Areas Under Observation:
 
 This section highlights areas within software engineering that we believe are important to monitor, but for which we have not yet found established, sustainable best practices. These are areas where evidence is still emerging or where industry consensus has yet to form. We are actively tracking developments in these areas and welcome contributions, discussions, or references that can help us better understand and document them. If you have insights, studies, or examples related to any of these topics, feel free to open an issue or submit a pull request. Areas include:
 - LLM use in code development
