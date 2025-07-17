@@ -65,6 +65,9 @@ For each resource, we have specified a recommended level of technical expertise 
 
 Advanced resources offer in-depth technical guidance, including practices such as code snippets and implementation details. Beginner resources provide high-level overviews of practices in a more accessible and easy-to-understand format. Intermediate resources serve as a balance between the two, offering a moderate level of technical detail.
 
+#### You can complete a Self-Assessment [here](https://gocode.green/un-itu-self-assessment/) to help determine your technical level. Based on your results, we can recommend the most relevant resources for you.
+
+
 ## Categories
 
 ### Energy and Resource Efficiency
