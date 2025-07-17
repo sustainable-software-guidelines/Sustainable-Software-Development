@@ -16,6 +16,14 @@ You’ll also find links to a growing collection of recommended books, websites,
 
 We would like to thank Mohammadreza Mousavi, Professor of Software Engineering at King's College London, and Dr Kevin Lano, Reader in Software Engineering at King's College London, for providing valuable input to and feedback on the repository and research methodology. We appreciate their contribution to the repository and their recognition of the value it can bring to engineers.
 
+We would also like to thank the following companies for carrying out an engineering review of the repository. We are grateful for their support and their acknowledgement of the benefits it would bring their engineers:
+- Cognizant
+- Capgemini
+- HSBC
+- Standard Bank
+- Mastek
+- KPMG
+
 ## Summary Table
 
 |                                  | Energy and Resource Efficiency|Software Architecture and Design |Sustainable Hardware and Infrastructure|Sustainable Development and Operations|AI and Emerging Technologies|
