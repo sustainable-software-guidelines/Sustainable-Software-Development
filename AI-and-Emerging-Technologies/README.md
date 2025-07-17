@@ -1,6 +1,5 @@
 ## Technical Expertise Table
 
-You can complete a Self-Assessment here: https://gocode.green/un-itu-self-assessment/ to help determine your technical level. Based on your results, we can recommend the most relevant resources for you.
 
 |                                  | Advanced | Intermediate | Beginner |
 |----------------------------------|----------|--------------|----------|
