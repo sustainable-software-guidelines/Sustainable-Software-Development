@@ -20,6 +20,7 @@ We would also like to thank the following companies for carrying out an engineer
 - Cognizant
 - Capgemini
 - HSBC
+- PA Consulting
 - Standard Bank
 - Mastek
 - KPMG
