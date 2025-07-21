@@ -70,12 +70,11 @@ Software development is a major contributor to IT-related energy use. Inefficien
 The environmental impact of software extends beyond code execution. Poorly designed applications increase hardware requirements, data storage needs, and network load, leading to unnecessary energy consumption at scale. Even user behaviour is influenced by software design, with inefficient workflows and excessive processing contributing to avoidable emissions. Conversely, well-designed software delivers multiple benefits—it enhances system performance, reduces energy use, lowers costs, and improves the overall user experience
 
 ## Technical Levels Explained
-For each resource, we have specified a recommended level of technical expertise to better align with your needs and facilitate easier navigation. These levels are categorized as Beginner, Intermediate, and Advanced.
+For each resource, we have specified a recommended level of technical expertise to better align with your needs and facilitate easier navigation. These levels are categorised as Beginner, Intermediate, and Advanced.
 
-Advanced resources offer in-depth technical guidance, including practices such as code snippets and implementation details. Beginner resources provide high-level overviews of practices in a more accessible and easy-to-understand format. Intermediate resources serve as a balance between the two, offering a moderate level of technical detail.
+Beginner resources provide high-level overviews of practices in a more accessible and easy-to-understand format. Intermediate resources serve as a balance between the two, offering a moderate level of technical detail. Advanced resources offer in-depth technical guidance, including practices such as code snippets and implementation details. 
 
-#### You can complete a Self-Assessment [here](https://gocode.green/un-itu-self-assessment/) to help determine your technical level. Based on your results, we can recommend the most relevant resources for you.
-
+#### You can complete a voluntary Self-Assessment [here](https://gocode.green/un-itu-self-assessment/) to help determine your technical level. The results are anonymous and solely intended to help indicate which resource levels may be most useful for you. 
 
 ## Categories
 
