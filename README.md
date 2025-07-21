@@ -151,7 +151,7 @@ This includes the following:
 |**Arcom General Policy Framework for the Ecodesign of Digital Services**|  |  | ✔ |
 
 
-You can find all related resources here: [Sustainable Hardware and Infrastrucutre folder](./Sustainable-Hardware-and-Infrastructure/)
+You can find all related resources here: [Sustainable Hardware and Infrastructure folder](./Sustainable-Hardware-and-Infrastructure/)
 
 ### Sustainable Development and Operations
 This includes the following:
