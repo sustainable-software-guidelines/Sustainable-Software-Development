@@ -89,18 +89,18 @@ This includes the following:
 
 #### Technical Expertise Table
 
-|                                  | Advanced | Intermediate | Beginner |
+|                                  | Beginner | Intermediate | Advanced |
 |----------------------------------|----------|--------------|----------|
-|**Green Software Foundation** | ✔ |  |  | 
+|**Green Software Foundation** |  |  | ✔ | 
 |**Building Green Software by Anne Currie et al.**|  | ✔ |  |
 |**AWS Well-Architected Framework**|  | ✔ |  |
 |**GCP Well-Architected Framework**|  | ✔ |  |
-|**Azure Well-Architected Framework**| ✔ | |  |
-|**Tech Carbon Standard by Scott Logic**|  |  | ✔ |
+|**Azure Well-Architected Framework**|  | | ✔ |
+|**Tech Carbon Standard by Scott Logic**| ✔ |  |  |
 |**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
-|**W3C Web Sustainability Guidelines**| ✔ |  |  |
+|**W3C Web Sustainability Guidelines**|  |  | ✔ |
 |**Defra Greener Service Principles**| |✔| |
-|**Arcom General Policy Framework for the Ecodesign of Digital Services**|✔| | |
+|**Arcom General Policy Framework for the Ecodesign of Digital Services**| | |✔ |
 
 You can find all related resources here: [Energy and Resource Efficiency folder](./Energy-and-Resource-Efficiency/)
 
@@ -113,18 +113,18 @@ This includes the following:
 
 #### Technical Expertise Table
 
-|                                  | Advanced | Intermediate | Beginner |
+|                                  | Beginner | Intermediate | Advanced |
 |----------------------------------|----------|--------------|----------|
-|**Green Software Foundation** | ✔ |  |  | 
+|**Green Software Foundation** |  |  | ✔ | 
 |**Building Green Software by Anne Currie et al.**|  | ✔ |  |
 |**AWS Well-Architected Framework**|  | ✔ |  |
 |**GCP Well-Architected Framework**|  | ✔ |  |
-|**Azure Well-Architected Framework**| ✔ |  |  |
+|**Azure Well-Architected Framework**|  |  | ✔ |
 |**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
-|**W3C Web Sustainability Guidelines**| ✔ |  |  |
-|**Defra Greener Service Principles**| ✔|  |  |
-|**Green Web Foundation**| ✔ |  |  |
-|**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ |  |  |
+|**W3C Web Sustainability Guidelines**|  |  | ✔ |
+|**Defra Greener Service Principles**| |  | ✔ |
+|**Green Web Foundation**|  |  | ✔ |
+|**Arcom General Policy Framework for the Ecodesign of Digital Services**|  |  | ✔ |
 
 You can find all related resources here: [Software Architecture and Design folder](./Software-Architecture-and-Design/)
 
