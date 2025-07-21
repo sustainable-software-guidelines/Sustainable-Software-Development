@@ -2,12 +2,12 @@
 
 You can complete a Self-Assessment [here](https://gocode.green/un-itu-self-assessment/) to help determine your technical level. Based on your results, we can recommend the most relevant resources for you.
 
-|                                  | Advanced | Intermediate | Beginner |
+|                                  | Beginner | Intermediate | Advanced |
 |----------------------------------|----------|--------------|----------|
-|**Green Software Foundation** | ✔ |  |  | 
+|**Green Software Foundation** |  |  | ✔ | 
 |**Building Green Software by Anne Currie et al.**|  | ✔ |  |
-|**Azure Well-Architected Framework**| ✔ |  |  | 
+|**Azure Well-Architected Framework**|  |  | ✔ |
 |**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
 |**Defra Greener Service Principles**|  | ✔ |  |
-|**Green Web Foundation**| ✔ |  |  |
-|**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ |  |  |
+|**Green Web Foundation**|  |  | ✔ |
+|**Arcom General Policy Framework for the Ecodesign of Digital Services**|  |  | ✔ |
