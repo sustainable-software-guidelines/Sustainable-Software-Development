@@ -23,7 +23,6 @@ We would also like to thank the following companies for carrying out an engineer
 - PA Consulting
 - Standard Bank
 - Mastek
-- KPMG
 
 ## Summary Table
 
