@@ -22,6 +22,7 @@ We would also like to thank the following companies for carrying out an engineer
 - HSBC
 - PA Consulting
 - Standard Bank
+- Aveva
 - Mastek
 
 ## Summary Table
