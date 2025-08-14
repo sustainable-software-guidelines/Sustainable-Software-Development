@@ -16,4 +16,7 @@ This is a backlog of feedback we've received, which we will review and address i
 | |  |  |  | 
 |**Capgemini**| General |  |  | 
 |  | Resources |  |  | 
+|**PA Consulting**| User Accessibility |  |  | 
+|**Mastek**| Content |  |  | 
+
 
