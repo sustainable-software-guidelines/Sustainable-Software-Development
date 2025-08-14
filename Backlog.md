@@ -6,10 +6,16 @@ This is a backlog of feedback we've received, which we will review and address i
 | | Resources | Helpful links to understand more about a wide variety of topics. |  | 
 | |  Context | I liked the brief overview of each section to give some context before going into the information in the link that was more detailed.|  |  
 | | User Accessibility | Everything was really well labelled, and I could navigate to the section I needed easily. |The only improvement I thought of in terms of user accessibility, was maybe for each section you could have the links directly under the main folder, rather than having multiple subfolders to make navigating a bit easier? Although I understand this may be done to make it a bit tidier! | |
-|**Cognizant**| Context |  |  | 
-| | User Accessibility |  |  | 
-| | Coverage |  |  | 
-| |Maintenance |  |  | 
+|**Cognizant**| Context | The GitHub repository presents a well-curated and forward-thinking foundation for sustainable software engineering, particularly across architecture, operations, and governance. |  | 
+| | User Accessibility |  | Some referenced links (e.g., O’Reilly publications) require purchase or trial access, which limits their practical use for engineering teams. We recommend consolidating such links into a reference index rather than maintaining them as standalone files. | 
+| | Coverage |  | To achieve comprehensive alignment with sustainable software engineering standards, we suggest future iterations address the following areas and please ignore in case already addressed. 
+Testing & QA: No coverage of sustainable testing practices or CI/CD pipeline optimization.
+Security & Privacy: Limited integration of privacy-aware sustainability principles.
+Tooling & Automation: Minimal detail on developer tooling and automation pipelines.
+Roles & Collaboration: Absence of role-specific responsibilities for embedding sustainability across teams.
+Metrics & KPIs: Underrepresentation of quantitative indicators for tracking sustainability maturity.
+| 
+| |Maintenance |  | Lastly, we would appreciate clarity on how the repository will be maintained post-publication. Regular updates and validation of links will be essential to ensure continued relevance and  usability. | 
 |**Capgemini**| General |  |  | 
 |  | Resources |  |  | 
 |**PA Consulting**| User Accessibility |  |  | 
