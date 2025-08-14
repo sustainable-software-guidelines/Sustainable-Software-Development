@@ -13,6 +13,6 @@ This is a backlog of feedback we've received, which we will review and address i
 |**Capgemini**| General | Overall, your approach and materials you have developed is good and very good starting point to develop these resources further.  |  | 
 |  | Resources | Through the lens of people using this resource as guide to develop their knowledge across a range of topics and the opportunity to deep dive further into different materials. We think is useful as hub to navigate to other resources. | Suggested builds to be added are from SustainableIT.org and Sustainable Architectures communities. From SustainableIT.org: IT Standards for Environmental, Social, and Governance Sustainability and the SustainableIT Standards Taxonomy. Then under AI & Emerging technologies, content from Sustainable Architectures for example The IT Toolkit for Responsible  and Sustainable AI  and Sustainable AI for Greener | 
 |**PA Consulting**| User Accessibility |  | Review the ordering of the technical levels in the table. | 
-|**Mastek**| Content |  | Consider whether data is covered under the existing categories or is better suited to be its own category | 
+|**Mastek**| Content |  | Consider whether data is covered under the existing categories or is better suited to be its own category. | 
 
 
