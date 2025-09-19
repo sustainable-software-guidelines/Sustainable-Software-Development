@@ -1,4 +1,4 @@
-## We welcome any questions. Here's how to do this:  
+### We welcome any questions. Here's how to do this:  
   
 1. Fork this repo  
 2. Create a branch 
@@ -7,5 +7,5 @@
    
 We'll review and respond to your pull request. Thank you. 
 
-## Please add your questions here:
+### Please add your questions here:
 
