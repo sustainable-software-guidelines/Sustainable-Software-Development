@@ -7,7 +7,7 @@ We welcome contributions of all types—whether you’re fixing a typo, suggesti
 - Suggest improvements to the guidelines or checklist
 - Add case studies or examples of sustainable software in practice
 - Submit new references (e.g. books, articles, tools)
-• Propose enhancements to structure or clarity
+- Propose enhancements to structure or clarity
 
 ### Getting Started
 1. Fork the repository
