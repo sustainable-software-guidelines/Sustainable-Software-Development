@@ -220,7 +220,7 @@ By submitting a contribution, you agree that it will be released under the repos
 
 
 ## Questions
-We welcome any questions or discussions. Check you [Questions](./Questions.md/) for more details. 
+We welcome any questions or discussions. Check out [Questions](./Questions.md/) for more details. 
 
 
 **Together, we can build a more sustainable digital future.**
