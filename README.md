@@ -199,8 +199,8 @@ We would like to thank Mohammadreza Mousavi, Professor of Software Engineering a
 
 We would also like to thank the following companies for carrying out an engineering review of the repository. We are grateful for their support and their acknowledgement of the benefits it would bring their engineers:
 
-|Bupa        |  King's College London | 
 |------------|------------------------|
+|Bupa        |  King's College London | 
 |Capgemini   | Mastek                 |
 |Cognizant   | PA Consulting          |
 |GoCodeGreen | Sage                   |
