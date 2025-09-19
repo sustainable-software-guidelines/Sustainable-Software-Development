@@ -220,7 +220,7 @@ By submitting a contribution, you agree that it will be released under the repos
 
 
 ## Questions
-Feel free to open an issue to start a discussion by submitting a pull request.
+We welcome any questions or discussions. Check you [Questions](./Questions.md/) for more details. 
 
 
 **Together, we can build a more sustainable digital future.**
