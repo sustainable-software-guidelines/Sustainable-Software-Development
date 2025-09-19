@@ -14,20 +14,6 @@ As part of this contribution, a practical checklist has been provided — design
 
 You’ll also find links to a growing collection of recommended books, websites, videos, and courses to support continuous learning and awareness of the latest advances in sustainable software development.
 
-We would like to thank Mohammadreza Mousavi, Professor of Software Engineering at King's College London, and Dr Kevin Lano, Reader in Software Engineering at King's College London, for providing valuable input to and feedback on the repository and research methodology. We appreciate their contribution to the repository and their recognition of the value it can bring to engineers.
-
-We would also like to thank the following companies for carrying out an engineering review of the repository. We are grateful for their support and their acknowledgement of the benefits it would bring their engineers:
-- Cognizant
-- Capgemini
-- HSBC
-- PA Consulting
-- Standard Bank
-- Sage
-- Mastek
-- Bupa
-- GoCodeGreen
-- King's College London
-
 ## Summary Table
 
 |                                  | Energy and Resource Efficiency|Software Architecture and Design |Sustainable Hardware and Infrastructure|Sustainable Development and Operations|AI and Emerging Technologies|
@@ -60,6 +46,7 @@ We would also like to thank the following companies for carrying out an engineer
   - [Sustainable Development and Operations](#sustainable-development-and-operations)
   - [AI and Emerging Technologies](#ai-and-emerging-technologies)
 - Case Studies
+- Contributors
 - How to Contribute
 - Licensing
 - Questions
@@ -205,6 +192,19 @@ You can find all related resources here: [AI and Emerging Technologies folder](.
 
 ## Case Studies
 We believe case studies bring everything to life. Here you will find a collection of success stories and case studies that showcase energy efficient and sustainable software. 
+
+## Contributors 
+
+We would like to thank Mohammadreza Mousavi, Professor of Software Engineering at King's College London, and Dr Kevin Lano, Reader in Software Engineering at King's College London, for providing valuable input to and feedback on the repository and research methodology. We appreciate their contribution to the repository and their recognition of the value it can bring to engineers.
+
+We would also like to thank the following companies for carrying out an engineering review of the repository. We are grateful for their support and their acknowledgement of the benefits it would bring their engineers:
+
+|  Bupa |  King's College London | 
+|Capgemini| Mastek  |
+| Cognizant | PA Consulting |
+|GoCodeGreen | Sage |
+| HSBC | Standard Bank |
+
 
 ## How to Contribute
 We welcome contributions! If you would like to suggest improvements, add new resources, or share implementation experiences, please open an issue or submit a pull request. Together, we can advance sustainable digital development for everyone.
