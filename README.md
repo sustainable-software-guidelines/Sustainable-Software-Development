@@ -220,7 +220,7 @@ By submitting a contribution, you agree that it will be released under the repos
 
 
 ## Questions
-Feel free to open an issue to start a discussion or ask for clarification before submitting a pull request.
+Feel free to open an issue to start a discussion by submitting a pull request.
 
 
 **Together, we can build a more sustainable digital future.**
