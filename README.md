@@ -25,6 +25,8 @@ We would also like to thank the following companies for carrying out an engineer
 - Sage
 - Mastek
 - Bupa
+- GoCodeGreen
+- King's College London
 
 ## Summary Table
 
