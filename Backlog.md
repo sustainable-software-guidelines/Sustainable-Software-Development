@@ -14,6 +14,15 @@ This is a backlog of feedback we've received, which we will review and address i
 |  | Resources | Through the lens of people using this resource as guide to develop their knowledge across a range of topics and the opportunity to deep dive further into different materials. We think is useful as hub to navigate to other resources. | Suggested builds to be added are from SustainableIT.org and Sustainable Architectures communities. From SustainableIT.org: IT Standards for Environmental, Social, and Governance Sustainability and the SustainableIT Standards Taxonomy. Then under AI & Emerging technologies, content from Sustainable Architectures for example The IT Toolkit for Responsible  and Sustainable AI  and Sustainable AI for Greener | 
 |**PA Consulting**| User Accessibility |  | Review the ordering of the technical levels in the table. | 
 |**Mastek**| Content |  | Consider whether data is covered under the existing categories or is better suited to be its own category. | 
-|**Sage**| Accessibility|Good collection of resources  which are well grouped and labeled. The repository acts as a valuable starting point for the discovery of resources, most of which were new to me.  | |
+|**Sage**| Accessibility|Good collection of resources  which are well grouped and labeled. The repository acts as a valuable starting point for the discovery of resources, most of which were new to me.  | 
+
+
+Alter folder structure: instead of the subfolders with markdown files linking to each source, link the resources in the overview table.
+Point users to specific, relevant sections within the resources. 
+Structure of the repo might benefit of some sort of quick wins/introductory checklist and ways to measure those outcomes.
+Classifying content by audience: Focus on personas, such as the specific job roles identified by the self-assessment.
+Links to Green Software Foundation are to the GitHub source code for their site, it would be more useful if it was to the site itself.
+The AWS well architected sustainability pillar is available in HTML documentation; it would be more useful to link this than the PDF, and that also allows for more specific deep-linking.
+* Small formatting error in Contributing.md - "Propose enhancements to structure or clarity" |
 
 
