@@ -15,5 +15,10 @@ This is a backlog of feedback we've received, which we will review and address i
 |**PA Consulting**| User Accessibility |  | Review the ordering of the technical levels in the table. | 
 |**Mastek**| Content |  | Consider whether data is covered under the existing categories or is better suited to be its own category. | 
 |**Sage**| Accessibility|Good collection of resources  which are well grouped and labeled. The repository acts as a valuable starting point for the discovery of resources, most of which were new to me.  | Alter folder structure: instead of the subfolders with markdown files linking to each source, link the resources in the overview table. <br> Point users to specific, relevant sections within the resources.  <br> Structure of the repo might benefit of some sort of quick wins/introductory checklist and ways to measure those outcomes. <br> Classifying content by audience: Focus on personas, such as the specific job roles identified by the self-assessment. <br> Links to Green Software Foundation are to the GitHub source code for their site, it would be more useful if it was to the site itself. <br> The AWS well architected sustainability pillar is available in HTML documentation; it would be more useful to link this than the PDF, and that also allows for more specific deep-linking.|
+||Content| A really strong collection of resources and definitly can give benefits to engineers. Some of the linked contant I already know, but the majority was new to me.| Link and classify resources. <br> Providing engineers with an easy way of measuring benefit/changes would be really useful. <br> Add quick wins/introductory checklist and ways to measure those outcomes. |
+
+
+
+
 
 
