@@ -1,7 +1,7 @@
 # Contributing Guide
 
 Thank you for your interest in contributing to the Sustainable Software Guidelines repository under the UN ITU Green Digital Action pillar.
-We welcome contributions of all types—whether you’re fixing a typo, suggesting a new resource, or sharing implementation insights. Here’s how to get started:
+We welcome contributions of all types - whether you’re fixing a typo, suggesting a new resource, or sharing implementation insights. Here’s how to get started:
 
 ### How You Can Contribute
 - Suggest improvements to the guidelines or checklist
