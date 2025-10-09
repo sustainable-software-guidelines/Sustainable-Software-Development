@@ -1,6 +1,6 @@
 # Contributor Code of Conduct
 
-This project is part of the Green Digital Action pillar under the UN ITU and aims to foster a respectful, inclusive, and collaborative environment for all contributors.
+This project is part of the Green Digital Action Green Computing pillar and aims to foster a respectful, inclusive, and collaborative environment for all contributors.
 
 We are committed to ensuring that participation in this project is a harassment-free experience for everyone, regardless of age, gender identity, race, religion, ability, or background.
 
