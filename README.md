@@ -10,7 +10,7 @@ This repository forms part of the Green Digital Action pillar under the United N
 
 Included here is a practitioner-developed set of sustainable software engineering best practices, co-created with GoCodeGreen. These practices have been developed, tested, and refined in real-world environments and are shared here for the benefit of the wider community.
 
-As part of this contribution, a practical [checklist](./Checklist.pdf/) has been provided — designed to help developers and teams integrate sustainability into every stage of the software lifecycle. This tool has been openly donated for public use, to accelerate learning and implementation across the industry.
+As part of this contribution, a practical [checklist](./Checklist.pdf/) has been provided by GoCodeGreen, designed to help developers and teams integrate sustainability into every stage of the software lifecycle. This tool has been openly donated for public use, to accelerate learning and implementation across the industry.
 
 You’ll also find links to a growing collection of recommended books, websites, videos, and courses to support continuous learning and awareness of the latest advances in sustainable software development.
 
