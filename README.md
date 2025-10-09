@@ -20,7 +20,6 @@ You’ll also find links to a growing collection of recommended books, websites,
 |----------------------------------|-------------------------------|---------------------------------|---------------------------------------|-------------------------------|-------------------------------|
 |**Green Software Foundation** | ✔ | ✔ | ✔ | ✔ | ✔ |  
 |**Building Green Software by Anne Currie et al.**| ✔ | ✔ | ✔ | ✔ | ✔ |
-|**TechUK Green Coding Toolkit** (pending)|  |  |  |  |  |
 |**AWS Well-Architected Framework**| ✔ | ✔ | ✔ | ✔ |  |
 |**GCP Well-Architected Framework**| ✔ | ✔ | ✔ | ✔ |  |
 |**Azure Well-Architected Framework**| ✔ | ✔ | ✔ | ✔ | ✔ |
