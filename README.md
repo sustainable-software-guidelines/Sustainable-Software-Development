@@ -4,13 +4,13 @@ Welcome to the Guidelines for Developing Energy-Efficient and Sustainable Softwa
 
 This repository was developed as part of the Green Computing pillar of the Green Digital Action initiative. GDA is a partner-led multi-stakeholder initiative, powered by the International Telecommunication Union (ITU), bringing together private and public partners worldwide to advance climate action through digital innovation.
 
+This repository supports the global effort to embed sustainability into software development by curating and sharing best practices, technical guidance, and actionable resources.
+
 <p align="center">
   <img src="https://i.imgur.com/i86g2zF.png" width="200">
 </p>
 
 Included here is a practitioner-developed set of sustainable software engineering best practices, co-created with GDA partner GoCodeGreen. These practices have been developed, tested, and refined in real-world environments and are shared here for the benefit of the wider community.
-
-This repository supports the global effort to embed sustainability into software development by curating and sharing best practices, technical guidance, and actionable resources.
 
 As part of this contribution, a practical [checklist](./Checklist.pdf/) has been provided by GoCodeGreen, designed to help developers and teams integrate sustainability into every stage of the software lifecycle. This tool has been openly donated for public use, to accelerate learning and implementation across the industry.
 
