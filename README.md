@@ -50,15 +50,15 @@ You’ll also find links to a growing collection of recommended books, websites,
 
 ## Introduction 
 
-## What do we mean by sustainable software?
+### What do we mean by sustainable software?
 We refer to sustainable software as software that is designed, developed, deployed and maintained with the aim of minimising its environmental impact across its full lifecycle. Our focus is particularly on energy use and carbon emissions.
 
-## Why is sustainable software development important?
+### Why is sustainable software development important?
 Software development is a major contributor to IT-related energy use. Inefficient code, redundant processes, and poor architectural decisions can lead to excessive computational demand, driving up emissions and operational costs. Studies indicate that optimised software can reduce energy consumption across infrastructure, devices, and networks by 25– 50%, making it one of the most effective levers for minimising digital carbon footprints.
 
 The environmental impact of software extends beyond code execution. Poorly designed applications increase hardware requirements, data storage needs, and network load, leading to unnecessary energy consumption at scale. Even user behaviour is influenced by software design, with inefficient workflows and excessive processing contributing to avoidable emissions. Conversely, well-designed software delivers multiple benefits—it enhances system performance, reduces energy use, lowers costs, and improves the overall user experience
 
-## Technical Levels Explained
+### Technical Levels Explained
 For each resource, we have specified a recommended level of technical expertise to better align with your needs and facilitate easier navigation. These levels are categorised as Beginner, Intermediate, and Advanced.
 
 Beginner resources provide high-level overviews of practices in a more accessible and easy-to-understand format. Intermediate resources serve as a balance between the two, offering a moderate level of technical detail. Advanced resources offer in-depth technical guidance, including practices such as code snippets and implementation details. 
