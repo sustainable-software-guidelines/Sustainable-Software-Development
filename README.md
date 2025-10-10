@@ -35,9 +35,7 @@ You’ll also find links to a growing collection of recommended books, websites,
 
 ## Table of Contents
 
-- Why sustainable software development is important?
-- Practioners Best Practice Guide
-- Sustainable Software Engineering Checklist
+- Introduction
 - Categories:
   - [Energy and Resource Efficiency](#energy-and-resource-efficiency)
   - [Software Architecture and Design](#software-architecture-and-design)
@@ -49,6 +47,8 @@ You’ll also find links to a growing collection of recommended books, websites,
 - How to Contribute
 - Licensing
 - Questions
+
+## Introduction 
 
 ## What do we mean by sustainable software?
 We refer to sustainable software as software that is designed, developed, deployed and maintained with the aim of minimising its environmental impact across its full lifecycle. Our focus is particularly on energy use and carbon emissions.
