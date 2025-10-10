@@ -21,12 +21,10 @@ You’ll also find links to a growing collection of recommended books, websites,
 |                                  | Energy and Resource Efficiency|Software Architecture and Design |Sustainable Hardware and Infrastructure|Sustainable Development and Operations|AI and Emerging Technologies|
 |----------------------------------|-------------------------------|---------------------------------|---------------------------------------|-------------------------------|-------------------------------|
 |**Green Software Foundation** | ✔ | ✔ | ✔ | ✔ | ✔ |  
-|**Building Green Software by Anne Currie et al.**| ✔ | ✔ | ✔ | ✔ | ✔ |
 |**AWS Well-Architected Framework**| ✔ | ✔ | ✔ | ✔ |  |
 |**GCP Well-Architected Framework**| ✔ | ✔ | ✔ | ✔ |  |
 |**Azure Well-Architected Framework**| ✔ | ✔ | ✔ | ✔ | ✔ |
 |**TechCarbonStandard by Scott Logic**| ✔ |  | ✔ | ✔ |  |
-|**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| ✔| ✔| ✔| ✔ |✔|
 |**W3C Web Sustainability Guidelines**| ✔ | ✔ | ✔ | ✔ |  |
 |**Defra Greener Service Principles**|✔| ✔ | ✔ | ✔ | ✔ |
 |**Green Web Foundation**|  | ✔ | ✔ | ✔ | ✔ |
@@ -82,12 +80,10 @@ This includes the following:
 |                                  | Beginner | Intermediate | Advanced |
 |----------------------------------|----------|--------------|----------|
 |**Green Software Foundation** |  |  | ✔ | 
-|**Building Green Software by Anne Currie et al.**|  | ✔ |  |
 |**AWS Well-Architected Framework**|  | ✔ |  |
 |**GCP Well-Architected Framework**|  | ✔ |  |
 |**Azure Well-Architected Framework**|  | | ✔ |
 |**Tech Carbon Standard by Scott Logic**| ✔ |  |  |
-|**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
 |**W3C Web Sustainability Guidelines**|  |  | ✔ |
 |**Defra Greener Service Principles**| |✔| |
 |**Arcom General Policy Framework for the Ecodesign of Digital Services**| | |✔ |
@@ -106,11 +102,9 @@ This includes the following:
 |                                  | Beginner | Intermediate | Advanced |
 |----------------------------------|----------|--------------|----------|
 |**Green Software Foundation** |  |  | ✔ | 
-|**Building Green Software by Anne Currie et al.**|  | ✔ |  |
 |**AWS Well-Architected Framework**|  | ✔ |  |
 |**GCP Well-Architected Framework**|  | ✔ |  |
 |**Azure Well-Architected Framework**|  |  | ✔ |
-|**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
 |**W3C Web Sustainability Guidelines**|  |  | ✔ |
 |**Defra Greener Service Principles**| |  | ✔ |
 |**Green Web Foundation**|  |  | ✔ |
@@ -129,12 +123,10 @@ This includes the following:
 |                                  | Beginner | Intermediate | Advanced |
 |----------------------------------|----------|--------------|----------|
 |**Green Software Foundation** |  |  | ✔ | 
-|**Building Green Software by Anne Currie et al.**|  | ✔ |  |
 |**AWS Well-Architected Framework**|  | ✔ |  |
 |**GCP Well-Architected Framework**|  | ✔ |  |
 |**Azure Well-Architected Framework**|  |  | ✔ |
 |**Tech Carbon Standard by Scott Logic**| ✔ |  |  |
-|**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
 |**W3C Web Sustainability Guidelines**|   |  | ✔ |
 |**Defra Greener Service Principles**|  | ✔|  |
 |**Green Web Foundation**|  |  | ✔ |
@@ -155,11 +147,9 @@ This includes the following:
 |                                  | Beginner | Intermediate | Advanced |
 |----------------------------------|----------|--------------|----------|
 |**Green Software Foundation** |  |  | ✔ | 
-|**Building Green Software by Anne Currie et al.**|  | ✔ |  |
 |**AWS Well-Architected Framework**|  | ✔ |  |
 |**Azure Well-Architected Framework**|  |  | ✔ |
 |**Tech Carbon Standard by Scott Logic**| ✔ |  |  |
-|**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
 |**W3C Web Sustainability Guidelines**|  |  | ✔ |
 |**Defra Greener Service Principles**|  | ✔  |  |
 |**Green Web Foundation**|  |  | ✔ |
@@ -177,9 +167,7 @@ This includes the following:
 |                                  | Beginner | Intermediate | Advanced |
 |----------------------------------|----------|--------------|----------|
 |**Green Software Foundation** |  |  | ✔ | 
-|**Building Green Software by Anne Currie et al.**|  | ✔ |  |
 |**Azure Well-Architected Framework**|  |  | ✔ |
-|**Decarbonise Digital and Sustainable IT Best Practices Handbook by Eric Zie**| | ✔| |
 |**Defra Greener Service Principles**|  | ✔ |  |
 |**Green Web Foundation**|  |  | ✔ |
 |**Arcom General Policy Framework for the Ecodesign of Digital Services**|  |  | ✔ |
