@@ -211,9 +211,11 @@ By submitting a contribution, you agree that it will be released under the repos
 ## Questions
 We welcome any questions or discussions. Check out [Questions](./Questions.md/) for more details. 
 
-
 **Together, we can build a more sustainable digital future.**
 
+
+## Disclaimer
+ITU does not endorse or recommend any specific tools, methodologies, or partners referenced in this repository. The content is shared solely as a resource to facilitate knowledge exchange and promote sustainable digital transformation.
 
 
 
