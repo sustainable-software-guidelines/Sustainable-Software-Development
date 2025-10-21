@@ -20,17 +20,17 @@ You’ll also find links to a growing collection of recommended books, websites,
 
 |                                  |AI and Emerging Technologies| Energy and Resource Efficiency|Software Architecture and Design |Sustainable Development and Operations|Sustainable Hardware and Infrastructure|
 |----------------------------------|-------------------------------|---------------------------------|---------------------------------------|-------------------------------|-------------------------------|
-|**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ | ✔ | ✔ | ✔ | ✔ |
-|**AWS Well-Architected Framework**|  | ✔ | ✔ | ✔ | ✔ |
-|**Azure Well-Architected Framework**| ✔ | ✔ | ✔ | ✔ | ✔ |
-|**Building Green Software** | | ✔ | ✔ | ✔ | ✔  |  
-|**Defra Greener Service Principles**|✔| ✔ | ✔ | ✔ | ✔ |
-|**GCP Well-Architected Framework**|  | ✔ | ✔ | ✔ | ✔ |
-|**Green Software Foundation** | ✔ | ✔ | ✔ | ✔ | ✔ |  
-|**Green Web Foundation**| ✔ |  | ✔ | ✔ | ✔ |
-|**SustainableIT Standards**|  |  |  | ✔  | |
-|**TechCarbonStandard by Scott Logic**|  | ✔ |  | ✔ | ✔ |
-|**W3C Web Sustainability Guidelines**|  | ✔ | ✔ | ✔ | ✔ |
+|**Arcom General Policy Framework for the Ecodesign of Digital Services**| [✔](./AI-and-Emerging-Technologies/Arcom-General-Policy-Framework-for-the-Ecodesgin-of-Digital-Services.md) | [✔](./Energy-and-Resource-Efficiency/Arcom-General-Policy-Framework-for-the-Ecodesgin-of-Digital-Services.md) | [✔](./Software-Architecture-and-Design/Arcom-General-Policy-Framework-for-the-Ecodesgin-of-Digital-Services.md) | [✔](./Sustainable-Development-and-Operations/Arcom-General-Policy-Framework-for-the-Ecodesgin-of-Digital-Services.md) | [✔](./Sustainable-Hardware-and-Infrastructure/Arcom-General-Policy-Framework-for-the-Ecodesgin-of-Digital-Services.md) |
+|**AWS Well-Architected Framework**|  | [✔](./Energy-and-Resource-Efficiency/AWS-Well-Architected-Framework.md) | [✔](./Software-Architecture-and-Design/AWS-Well-Architected-Framework.md) | [✔](./Sustainable-Development-and-Operations/AWS-Well-Architected-Framework.md) | [✔](./Sustainable-Hardware-and-Infrastructure/AWS-Well-Architected-Framework.md) |
+|**Azure Well-Architected Framework**| [✔](./AI-and-Emerging-Technologies/Azure-Well-Architected-Framework.md) | [✔](./Energy-and-Resource-Efficiency/Azure-Well-Architected-Framework.md) | [✔](./Software-Architecture-and-Design/Azure-Well-Architected-Framework.md) | [✔](./Sustainable-Development-and-Operations/Azure-Well-Architected-Framework.md) | [✔](./Sustainable-Hardware-and-Infrastructure/Azure-Well-Architected-Framework.md) |
+|**Building Green Software** | | [✔](./Energy-and-Resource-Efficiency/Building-Green-Software.md) | [✔](./Software-Architecture-and-Design/Building-Green-Software.md) | [✔](./Sustainable-Development-and-Operations/Building-Green-Software.md) | [✔](./Sustainable-Hardware-and-Infrastructure/Building-Green-Software.md)  |  
+|**Defra Greener Service Principles**|[✔](./AI-and-Emerging-Technologies/Defra-Greener-Service-Principles.md)| [✔](./Energy-and-Resource-Efficiency/Defra-Greener-Service-Principles.md) | [✔](./Software-Architecture-and-Design/Defra-Greener-Service-Principles.md) | [✔](./Sustainable-Development-and-Operations/Defra-Greener-Service-Principles.md) | [✔](./Sustainable-Hardware-and-Infrastructure/Defra-Greener-Service-Principles.md) |
+|**GCP Well-Architected Framework**|  | [✔](./Energy-and-Resource-Efficiency/GCP-Well-Architected-Framework.md) | [✔](./Software-Architecture-and-Design/GCP-Well-Architected-Framework.md) |  | [✔](./Sustainable-Hardware-and-Infrastructure/GCP-Well-Architected-Framework.md) |
+|**Green Software Foundation** | [✔](./AI-and-Emerging-Technologies/Green-Software-Foundation.md) | [✔](./Energy-and-Resource-Efficiency/Green-Software-Foundation.md) | [✔](./Software-Architecture-and-Design/Green-Software-Foundation.md) | [✔](./Sustainable-Development-and-Operations/Green-Software-Foundation.md) | [✔](./Sustainable-Hardware-and-Infrastructure/Green-Software-Foundation.md) |  
+|**Green Web Foundation**| [✔](./AI-and-Emerging-Technologies/Green-Web-Foundation.md) |  | [✔](./Software-Architecture-and-Design/Green-Web-Foundation.md) | [✔](./Sustainable-Development-and-Operations/Green-Web-Foundation.md) | [✔](./Sustainable-Hardware-and-Infrastructure/Green-Web-Foundation.md) |
+|**SustainableIT Standards**|  |  |  | [✔](./Sustainable-Development-and-Operations/SustainableIT-Standards.md)  | |
+|**TechCarbonStandard by Scott Logic**|  | [✔](./Energy-and-Resource-Efficiency/Tech-Carbon-Standard-by-Scott-Logic.md) |  | [✔](./Sustainable-Development-and-Operations/Tech-Carbon-Standard-by-Scott-Logic.md) | [✔](./Sustainable-Hardware-and-Infrastructure/Tech-Carbon-Standard-by-Scott-Logic.md) |
+|**W3C Web Sustainability Guidelines**|  | [✔](./Energy-and-Resource-Efficiency/W3C-Web-Sustainability-Guidelines.md) | [✔](./Software-Architecture-and-Design/W3C-Web-Sustainability-Guidelines.md) | [✔](./Sustainable-Development-and-Operations/W3C-Web-Sustainability-Guidelines.md) | [✔](./Sustainable-Hardware-and-Infrastructure/W3C-Web-Sustainability-Guidelines.md) |
 
 *Disclaimer: This table is based on current published research, and does not cover work in progress*
 

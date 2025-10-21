@@ -27,7 +27,7 @@ If you are contributing resources to our list, please ensure they are referenced
     - Save in the folder
     - Add to the Technical Expertise Table in each folder's README.md
 - Ensure the resource is listed and assessed in the [README.md](./README.md) in the:
-    - [Summary Table](./README.md#summary-table)
+    - [Summary Table](./README.md#summary-table) (complete with 'ticks' and links to the resource in each folder)
     - Technical Expertise Table for **each relevant section** (see below) in the [Table of Contents](./README.md#table-of-contents)
 - Ensure you/your company are added to the list of [contributors](./README.md#contributors)
 
