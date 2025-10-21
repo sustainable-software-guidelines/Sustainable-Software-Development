@@ -18,18 +18,19 @@ You’ll also find links to a growing collection of recommended books, websites,
 
 ## Summary Table
 
-|                                  | Energy and Resource Efficiency|Software Architecture and Design |Sustainable Hardware and Infrastructure|Sustainable Development and Operations|AI and Emerging Technologies|
+|                                  |AI and Emerging Technologies| Energy and Resource Efficiency|Software Architecture and Design |Sustainable Development and Operations|Sustainable Hardware and Infrastructure|
 |----------------------------------|-------------------------------|---------------------------------|---------------------------------------|-------------------------------|-------------------------------|
-|**Green Software Foundation** | ✔ | ✔ | ✔ | ✔ | ✔ |  
-|**AWS Well-Architected Framework**| ✔ | ✔ | ✔ | ✔ |  |
-|**GCP Well-Architected Framework**| ✔ | ✔ | ✔ | ✔ |  |
-|**Azure Well-Architected Framework**| ✔ | ✔ | ✔ | ✔ | ✔ |
-|**TechCarbonStandard by Scott Logic**| ✔ |  | ✔ | ✔ |  |
-|**W3C Web Sustainability Guidelines**| ✔ | ✔ | ✔ | ✔ |  |
-|**Defra Greener Service Principles**|✔| ✔ | ✔ | ✔ | ✔ |
-|**Green Web Foundation**|  | ✔ | ✔ | ✔ | ✔ |
-|**SustainableIT Standards**|  |  |  | ✔ |  |
 |**Arcom General Policy Framework for the Ecodesign of Digital Services**| ✔ | ✔ | ✔ | ✔ | ✔ |
+|**AWS Well-Architected Framework**|  | ✔ | ✔ | ✔ | ✔ |
+|**Azure Well-Architected Framework**| ✔ | ✔ | ✔ | ✔ | ✔ |
+|**Building Green Software** | | ✔ | ✔ | ✔ | ✔  |  
+|**Defra Greener Service Principles**|✔| ✔ | ✔ | ✔ | ✔ |
+|**GCP Well-Architected Framework**|  | ✔ | ✔ | ✔ | ✔ |
+|**Green Software Foundation** | ✔ | ✔ | ✔ | ✔ | ✔ |  
+|**Green Web Foundation**| ✔ |  | ✔ | ✔ | ✔ |
+|**SustainableIT Standards**|  |  |  | ✔  | |
+|**TechCarbonStandard by Scott Logic**|  | ✔ |  | ✔ | ✔ |
+|**W3C Web Sustainability Guidelines**|  | ✔ | ✔ | ✔ | ✔ |
 
 *Disclaimer: This table is based on current published research, and does not cover work in progress*
 
