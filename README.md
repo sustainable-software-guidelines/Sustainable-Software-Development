@@ -35,18 +35,18 @@ You’ll also find links to a growing collection of recommended books, websites,
 
 ## Table of Contents
 
-- Introduction
-- Categories:
+- [Introduction](#introduction)
+- [Categories](#categories):
+  - [AI and Emerging Technologies](#ai-and-emerging-technologies)
   - [Energy and Resource Efficiency](#energy-and-resource-efficiency)
   - [Software Architecture and Design](#software-architecture-and-design)
   - [Sustainable Hardware and Infrastrucutre](#sustainable-hardware-and-infrastructure)
   - [Sustainable Development and Operations](#sustainable-development-and-operations)
-  - [AI and Emerging Technologies](#ai-and-emerging-technologies)
-- Case Studies
-- Contributors
-- How to Contribute
-- Licensing
-- Questions
+- [Case Studies](#case-studies)
+- [Contributors](#contributors)
+- [How to Contribute](#how-to-contribute)
+- [Licensing](#licensing)
+- [Questions](#questions)
 
 ## Introduction 
 
@@ -66,6 +66,29 @@ Beginner resources provide high-level overviews of practices in a more accessibl
 #### You can complete a voluntary Self-Assessment [here](https://gocode.green/un-itu-self-assessment/) to help determine your technical level. The results are anonymous and solely intended to help indicate which resource levels may be most useful for you. 
 
 ## Categories
+
+### AI and Emerging Technologies
+This includes the following:
+- AI-Driven Software Development – Leveraging AI for software optimisation while minimising its environmental footprint.
+
+#### Technical Expertise Table
+
+|                                  | Beginner | Intermediate | Advanced |
+|----------------------------------|----------|--------------|----------|
+|**Green Software Foundation** |  |  | ✔ | 
+|**Azure Well-Architected Framework**|  |  | ✔ |
+|**Defra Greener Service Principles**|  | ✔ |  |
+|**Green Web Foundation**|  |  | ✔ |
+|**Arcom General Policy Framework for the Ecodesign of Digital Services**|  |  | ✔ |
+
+#### Areas Under Observation:
+
+This section highlights areas within software engineering that we believe are important to monitor, but for which we have not yet found established, sustainable best practices. These are areas where evidence is still emerging or where industry consensus has yet to form. We are actively tracking developments in these areas and welcome contributions, discussions, or references that can help us better understand and document them. If you have insights, studies, or examples related to any of these topics, feel free to open an issue or submit a pull request. Areas include:
+- LLM use in code development
+
+You can find all related resources here: [AI and Emerging Technologies folder](./AI-and-Emerging-Technologies/)
+
+
 
 ### Energy and Resource Efficiency
 This includes the following:
@@ -90,6 +113,8 @@ This includes the following:
 
 You can find all related resources here: [Energy and Resource Efficiency folder](./Energy-and-Resource-Efficiency/)
 
+
+
 ### Software Architecture and Design
 This includes the following:
 - Code Reuse and Modular Design – Encouraging reusable software components to improve efficiency and sustainability. 
@@ -112,28 +137,7 @@ This includes the following:
 
 You can find all related resources here: [Software Architecture and Design folder](./Software-Architecture-and-Design/)
 
-### Sustainable Hardware and Infrastructure
-This includes the following:
-- Leveraging Hardware Efficiency – Ensuring software compatibility with diverse hardware to extend device lifecycles. 
-- Carbon-Aware Scheduling – Aligning software execution with low-carbon grid periods to reduce emissions. 
-- E-Waste Reduction – Designing software that extends the lifespan of hardware and reduces electronic waste.
 
-#### Technical Expertise Table
-
-|                                  | Beginner | Intermediate | Advanced |
-|----------------------------------|----------|--------------|----------|
-|**Green Software Foundation** |  |  | ✔ | 
-|**AWS Well-Architected Framework**|  | ✔ |  |
-|**GCP Well-Architected Framework**|  | ✔ |  |
-|**Azure Well-Architected Framework**|  |  | ✔ |
-|**Tech Carbon Standard by Scott Logic**| ✔ |  |  |
-|**W3C Web Sustainability Guidelines**|   |  | ✔ |
-|**Defra Greener Service Principles**|  | ✔|  |
-|**Green Web Foundation**|  |  | ✔ |
-|**Arcom General Policy Framework for the Ecodesign of Digital Services**|  |  | ✔ |
-
-
-You can find all related resources here: [Sustainable Hardware and Infrastructure folder](./Sustainable-Hardware-and-Infrastructure/)
 
 ### Sustainable Development and Operations
 This includes the following:
@@ -158,26 +162,31 @@ This includes the following:
 
 You can find all related resources here: [Sustainable Development and Operations folder](./Sustainable-Development-and-Operations/)
 
-### AI and Emerging Technologies
+
+
+### Sustainable Hardware and Infrastructure
 This includes the following:
-- AI-Driven Software Development – Leveraging AI for software optimisation while minimising its environmental footprint.
+- Leveraging Hardware Efficiency – Ensuring software compatibility with diverse hardware to extend device lifecycles. 
+- Carbon-Aware Scheduling – Aligning software execution with low-carbon grid periods to reduce emissions. 
+- E-Waste Reduction – Designing software that extends the lifespan of hardware and reduces electronic waste.
 
 #### Technical Expertise Table
 
 |                                  | Beginner | Intermediate | Advanced |
 |----------------------------------|----------|--------------|----------|
 |**Green Software Foundation** |  |  | ✔ | 
+|**AWS Well-Architected Framework**|  | ✔ |  |
+|**GCP Well-Architected Framework**|  | ✔ |  |
 |**Azure Well-Architected Framework**|  |  | ✔ |
-|**Defra Greener Service Principles**|  | ✔ |  |
+|**Tech Carbon Standard by Scott Logic**| ✔ |  |  |
+|**W3C Web Sustainability Guidelines**|   |  | ✔ |
+|**Defra Greener Service Principles**|  | ✔|  |
 |**Green Web Foundation**|  |  | ✔ |
 |**Arcom General Policy Framework for the Ecodesign of Digital Services**|  |  | ✔ |
 
-#### Areas Under Observation:
 
-This section highlights areas within software engineering that we believe are important to monitor, but for which we have not yet found established, sustainable best practices. These are areas where evidence is still emerging or where industry consensus has yet to form. We are actively tracking developments in these areas and welcome contributions, discussions, or references that can help us better understand and document them. If you have insights, studies, or examples related to any of these topics, feel free to open an issue or submit a pull request. Areas include:
-- LLM use in code development
+You can find all related resources here: [Sustainable Hardware and Infrastructure folder](./Sustainable-Hardware-and-Infrastructure/)
 
-You can find all related resources here: [AI and Emerging Technologies folder](./AI-and-Emerging-Technologies/)
 
 ## Case Studies
 We believe case studies bring everything to life. Here you will find a collection of success stories and case studies that showcase energy efficient and sustainable software. 
@@ -199,7 +208,7 @@ We would also like to thank the following companies for carrying out an engineer
 
 ## How to Contribute
 We welcome contributions! If you would like to suggest improvements, add new resources, or share implementation experiences, please open an issue or submit a pull request. Together, we can advance sustainable digital development for everyone.
-Check out [Contributions](./Contributing.md/) for more details.
+Check out our guide to [Contributing](./Contributing.md/) for more details.
 
 
 ## Licensing
