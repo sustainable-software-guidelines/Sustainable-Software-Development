@@ -24,19 +24,19 @@ We welcome contributions of all types - whether you’re fixing a typo, suggesti
 ### To do list
 If you are contributing resources to our list, please ensure they are referenced across he project
 - Ensure all contributions are mapped according to content in at least one of the five categories (and saved in the folders accordingly)
-- Ensure the resource is listed and assessed in the [README.md](https://github.com/sustainable-software-guidelines/Sustainable-Software-Development/blob/main/README.md) in the:
-    - [Summary Table](https://github.com/sustainable-software-guidelines/Sustainable-Software-Development/blob/main/README.md#summary-table)
-    - Technical Expertise Table for **each relevant section** (see below) in the [Table of Contents](https://github.com/sustainable-software-guidelines/Sustainable-Software-Development/blob/main/README.md#table-of-contents)
-- Ensure you/your company are added to the list of [contributors](https://github.com/sustainable-software-guidelines/Sustainable-Software-Development/blob/main/README.md#contributors)
+- Ensure the resource is listed and assessed in the [README.md](./README.md) in the:
+    - [Summary Table](./README.md#summary-table)
+    - Technical Expertise Table for **each relevant section** (see below) in the [Table of Contents](./README.md#table-of-contents)
+- Ensure you/your company are added to the list of [contributors](./README.md#contributors)
 
 
 |     Title                        | README.md Contents Section | Directory    |
 |----------------------------------|----------------------------|--------------|
-|**AI and Emerging Technologies** | [AI and Emerging Technologies Section](https://github.com/sustainable-software-guidelines/Sustainable-Software-Development/blob/main/README.md#sustainable-development-and-operations) | [AI and Emerging Technologies Directory](https://github.com/sustainable-software-guidelines/Sustainable-Software-Development/tree/main/AI-and-Emerging-Technologies) |
-|**Energy and Resource Efficiency** | [Energy and Resource Efficiency Section](https://github.com/sustainable-software-guidelines/Sustainable-Software-Development/blob/main/README.md#energy-and-resource-efficiency) | [Energy and Resource Efficiency Directory](https://github.com/sustainable-software-guidelines/Sustainable-Software-Development/tree/main/Energy-and-Resource-Efficiency) |
-|**Software Architecture and Design** | [Software Architecture and Design Section](https://github.com/sustainable-software-guidelines/Sustainable-Software-Development/blob/main/README.md#software-architecture-and-design) | [Software Architecture and Design Directory](https://github.com/sustainable-software-guidelines/Sustainable-Software-Development/tree/main/Software-Architecture-and-Design) |
-|**Sustainable Development and Operations** | [Sustainable Development and Operations Section](https://github.com/sustainable-software-guidelines/Sustainable-Software-Development/blob/main/README.md#sustainable-development-and-operations) | [Sustainable Development and Operations Directory](https://github.com/sustainable-software-guidelines/Sustainable-Software-Development/tree/main/Sustainable-Development-and-Operations) |
-|**Sustainable Hardware and Infrastructure** | [Sustainable Hardware and Infrastructure Section](https://github.com/sustainable-software-guidelines/Sustainable-Software-Development/blob/main/README.md#sustainable-hardware-and-infrastructure) | [Sustainable Hardware and Infrastructure Directory](https://github.com/sustainable-software-guidelines/Sustainable-Software-Development/tree/main/Sustainable-Hardware-and-Infrastructure) |
+|**AI and Emerging Technologies** | [AI and Emerging Technologies Section](./README.md#sustainable-development-and-operations) | [AI and Emerging Technologies Directory](./AI-and-Emerging-Technologies) |
+|**Energy and Resource Efficiency** | [Energy and Resource Efficiency Section](./README.md#energy-and-resource-efficiency) | [Energy and Resource Efficiency Directory](./Energy-and-Resource-Efficiency) |
+|**Software Architecture and Design** | [Software Architecture and Design Section](./README.md#software-architecture-and-design) | [Software Architecture and Design Directory](./Software-Architecture-and-Design) |
+|**Sustainable Development and Operations** | [Sustainable Development and Operations Section](./README.md#sustainable-development-and-operations) | [Sustainable Development and Operations Directory](./Sustainable-Development-and-Operations) |
+|**Sustainable Hardware and Infrastructure** | [Sustainable Hardware and Infrastructure Section](./README.md#sustainable-hardware-and-infrastructure) | [Sustainable Hardware and Infrastructure Directory](./Sustainable-Hardware-and-Infrastructure) |
 
 
 
