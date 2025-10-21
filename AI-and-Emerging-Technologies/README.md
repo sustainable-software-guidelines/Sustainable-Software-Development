@@ -4,8 +4,8 @@ You can complete a Self-Assessment [here](https://gocode.green/un-itu-self-asses
 
 |                                  | Beginner | Intermediate | Advanced |
 |----------------------------------|----------|--------------|----------|
-|**Green Software Foundation** |  |  | ✔ | 
+|**Arcom General Policy Framework for the Ecodesign of Digital Services**|  |  | ✔ |
 |**Azure Well-Architected Framework**|  |  | ✔ |
 |**Defra Greener Service Principles**|  | ✔ |  |
+|**Green Software Foundation** |  |  | ✔ | 
 |**Green Web Foundation**|  |  | ✔ |
-|**Arcom General Policy Framework for the Ecodesign of Digital Services**|  |  | ✔ |

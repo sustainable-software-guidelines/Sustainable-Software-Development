@@ -4,12 +4,13 @@ You can complete a Self-Assessment [here](https://gocode.green/un-itu-self-asses
 
 |                                  | Beginner | Intermediate | Advanced |
 |----------------------------------|----------|--------------|----------|
-|**Green Software Foundation** |  |  | ✔ | 
-|**AWS Well-Architected Framework**|  | ✔ |  |
+|**Arcom General Policy Framework for the Ecodesign of Digital Services**|  |  | ✔ |
 |**Azure Well-Architected Framework**|  |  | ✔ |
-|**Tech Carbon Standard by Scott Logic**| ✔ |  |  |
-|**W3C Web Sustainability Guidelines**|  |  | ✔ |
+|**AWS Well-Architected Framework**|  | ✔ |  |
+|**Building Green Software**| | | ✔ |
 |**Defra Greener Service Principles**|  | ✔  |  |
+|**Green Software Foundation** |  |  | ✔ | 
 |**Green Web Foundation**|  |  | ✔ |
 |**SustainableIT Standards**|  | ✔|  |
-|**Arcom General Policy Framework for the Ecodesign of Digital Services**|  |  | ✔ |
+|**Tech Carbon Standard by Scott Logic**| ✔ |  |  |
+|**W3C Web Sustainability Guidelines**|  |  | ✔ |

@@ -76,10 +76,10 @@ This includes the following:
 
 |                                  | Beginner | Intermediate | Advanced |
 |----------------------------------|----------|--------------|----------|
-||**Arcom General Policy Framework for the Ecodesign of Digital Services**|  |  | ✔ |
+|**Arcom General Policy Framework for the Ecodesign of Digital Services**|  |  | ✔ |
 |**Azure Well-Architected Framework**|  |  | ✔ |
 |**Defra Greener Service Principles**|  | ✔ |  |
-**Green Software Foundation** |  |  | ✔ | 
+|**Green Software Foundation** |  |  | ✔ | 
 |**Green Web Foundation**|  |  | ✔ |
 
 #### Areas Under Observation:
@@ -103,7 +103,7 @@ This includes the following:
 
 |                                  | Beginner | Intermediate | Advanced |
 |----------------------------------|----------|--------------|----------|
-|**Arcom General Policy Framework for the Ecodesign of Digital Services**| | |✔ |
+|**Arcom General Policy Framework for the Ecodesign of Digital Services**|  |  | ✔ |
 |**AWS Well-Architected Framework**|  | ✔ |  |
 |**Azure Well-Architected Framework**|  | | ✔ |
 |**Building Green Software**| |✔| |
