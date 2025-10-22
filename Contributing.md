@@ -23,7 +23,7 @@ We welcome contributions of all types - whether you’re fixing a typo, suggesti
 
 ### To do list
 If you are contributing resources to our list, please ensure they are referenced across he project
-- Ensure all contributions are mapped according to content in at least one of the five categories (and saved in the folders accordingly)
+- Ensure all contributions are mapped according to content in at least one of the five categories (and saved in the folders accordingly) - see links below
     - Save in the folder
     - Add to the Technical Expertise Table in each folder's README.md
 - Ensure the resource is listed and assessed in the [README.md](./README.md) in the:
