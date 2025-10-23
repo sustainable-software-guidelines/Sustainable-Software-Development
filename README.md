@@ -1,5 +1,9 @@
 # Guidelines for Developing Energy Efficient and Environmentally Sustainable Software
 
+Testing 123 by mayuri 
+Second test
+
+
 Welcome to the Guidelines for Developing Energy-Efficient and Sustainable Software Repository!
 
 This repository was developed as part of the Green Computing pillar of the Green Digital Action initiative. GDA is a partner-led multi-stakeholder initiative, powered by the International Telecommunication Union (ITU), bringing together private and public partners worldwide to advance climate action through digital innovation.
@@ -216,6 +220,9 @@ We welcome any questions or discussions. Check out [Questions](./Questions.md/) 
 
 ## Disclaimer
 ITU does not endorse or recommend any specific tools, methodologies, or partners referenced in this repository. The content is shared solely as a resource to facilitate knowledge exchange and promote sustainable digital transformation.
+
+
+
 
 
 
