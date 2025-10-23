@@ -22,7 +22,7 @@ We welcome contributions of all types - whether you’re fixing a typo, suggesti
 - Ensure markdown formatting is consistent
 
 ### To do list
-If you are contributing resources to our list, please ensure they are referenced across he project
+If you are contributing resources to our list, please ensure they are referenced across the project
 - Ensure all contributions are mapped according to content in at least one of the five categories (and saved in the folders accordingly) - see links below
     - Save in the folder
     - Add to the Technical Expertise Table in each folder's README.md
